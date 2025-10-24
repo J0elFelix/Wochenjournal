@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "324ed7ca7bb42b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "507628e80c0a87fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6676a1419b2704a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalenderwoche 43.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 43"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41e2d7495eb20c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e1624ed55ddf56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "098a053bbd5821a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44d409a3c4825392",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff045d8cd80d5d73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21f235d45f5c3720",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d782ae0c469acc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7278c2794082df0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kalenderwoche 43.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kalenderwoche 43"
+            }
+          },
+          {
+            "id": "d8b5bad180aef682",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kalenderwoche 43.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kalenderwoche 43"
+            }
+          },
+          {
+            "id": "e99b26004d987a46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e64c41ef0a79f131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kalenderwoche 43.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kalenderwoche 43"
+            }
+          },
+          {
+            "id": "061aabc6787c55e4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e6676a1419b2704a",
+  "lastOpenFiles": [
+    "Kalenderwoche 43.md",
+    "Wochenjournal/README.md",
+    "Wochenjournal",
+    "Kalenderwoche 32.md",
+    "assets/Pasted image 20251024102225.png",
+    "Pasted image 20251024102045.png",
+    "Pasted image 20251024102044.png",
+    "Pasted image 20251024101958.png",
+    "assets/Pasted image 20251024093147.png",
+    "assets/Pasted image 20251024100558.png",
+    "Kalenderwoche 42.md",
+    "Kalenderwoche 41.md",
+    "assets/Pasted image 20251024100554.png",
+    "assets/Untitled.base",
+    "assets",
+    "assets/Pasted image 20251024100526.png",
+    "assets/Pasted image 20251024100459.png",
+    "assets/Pasted image 20251024100452.png",
+    "Kalenderwoche 40.md",
+    "Kalenderwoche 39.md",
+    "Kalenderwoche 38.md",
+    "Kalenderwoche 37.md",
+    "Kalenderwoche 36.md",
+    "Kalenderwoche 35.md",
+    "Kalenderwoche 34.md",
+    "Kalenderwoche 33.md"
+  ]
+}
