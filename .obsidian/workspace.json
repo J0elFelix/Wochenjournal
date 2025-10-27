@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57e23acab93b091d",
+        "id": "9c66360be09b92e7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b265fd684cb7c6a",
+            "id": "6a5f3f9aecfcf74b",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Kalenderwoche 44.md",
-                "bFile": "Kalenderwoche 44.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Kalenderwoche 44"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -181,12 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b265fd684cb7c6a",
+  "active": "6a5f3f9aecfcf74b",
   "lastOpenFiles": [
     "Kalenderwoche 44.md",
+    "Kalenderwoche 43.md",
+    "assets/JS Aufgabe.png",
     "assets/Pasted image 20251027151844.png",
     "assets/Mockup.png",
-    "Kalenderwoche 43.md",
     "assets/Final Yearbook Table Border Right.png",
     "assets/Final Yearbook Table Border Left.png",
     "assets/Old Yearbook Table.png",
@@ -194,7 +194,6 @@
     "assets/Toggle Left Umbraco.png",
     "assets/Toggle Configuration Umbraco.png",
     "assets/Programm Tag 2.png",
-    "assets/Programm Tag 1.png",
     "Mockup.md",
     "Kalenderwoche 42.md",
     "README.md",
