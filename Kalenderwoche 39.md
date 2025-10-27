@@ -12,9 +12,9 @@
 
 ##### Aktueller Stand:
 
-![[Pasted image 20251024093717.png]]
+![[Redesign Yearbook Table.png]]
 
-![[Pasted image 20251024093723.png]]
+![[Redesign Yearbook Table Responsiv.png]]
 
 ---
 
@@ -24,9 +24,9 @@
 
 ##### Aktueller Stand:
 
-![[Pasted image 20251024093848.png]]
+![[Redesign Yearbook Table Border Left.png]]
 
-![[Pasted image 20251024093854.png]]
+![[Redesign Yearbook Table Border Top.png]]
 
 ---
 

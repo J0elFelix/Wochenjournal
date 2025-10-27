@@ -28,23 +28,23 @@
 
 ##### Toggle Konfiguration:
 
-![[Pasted image 20251024100414.png]]
+![[Toggle Configuration Umbraco.png]]
 
 ##### Toggle off und Toggle on:
 
-![[Pasted image 20251024100452.png]]
+![[Toggle Left Umbraco.png]]
 
-![[Pasted image 20251024100459.png]]
+![[Toggle Right Umbraco.png]]
 
 ##### Alte Tabelle:
 
-![[Pasted image 20251024100526.png]]
+![[Old Yearbook Table.png]]
 
 ##### Neue Tabelle mit Border Links und Rechts:
 
-![[Pasted image 20251024100554.png]]
+![[Final Yearbook Table Border Left.png]]
 
-![[Pasted image 20251024100558.png]]
+![[Final Yearbook Table Border Right.png]]
 
 ![[Pasted image 20251024101958.png]]
 ---

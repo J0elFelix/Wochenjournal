@@ -5,15 +5,15 @@
 
 ##### Bibliothek Header:
 
-![[Pasted image 20251024094334.png]]
+![[Navigation Library.png]]
 
 ##### Infoblock:
 
-![[Pasted image 20251024094409.png]]
+![[Infoblock JS Aufgabe onclick.png]]
 
 ##### Aufgabe:
 
-![[Pasted image 20251024094444.png]]
+![[JS Aufgabe.png]]
 
 ---
 
@@ -23,7 +23,7 @@
 
 ##### Ablauf Tag 1:
 
-![[Pasted image 20251024094539.png]]
+![[Programm Tag 1.png]]
 
 ---
 
@@ -33,7 +33,7 @@
 
 ##### Ablauf Tag 2:
 
-![[Pasted image 20251024094611.png]]
+![[Programm Tag 2.png]]
 
 ---
 

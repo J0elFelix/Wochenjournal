@@ -27,14 +27,14 @@
 
 ##### Aktueller stand der Bibliothek Seite:
 
-![[Pasted image 20251024093147.png]]
+![[HomePage Library.png]]
 
-![[Pasted image 20251024093154.png]]
+![[VeranstaltungenPage Library.png]]
 
-![[Pasted image 20251024093203.png]]
+![[Digitale BibliothekPage Library.png]]
 
-![[Pasted image 20251024093210.png]]
+![[Bisherige AusgabenPage Library.png]]
 
-![[Pasted image 20251024093215.png]]
+![[Häufig gestellte FragenPage Library.png]]
 
 ---

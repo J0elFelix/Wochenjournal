@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a206e1ca306fb0",
+        "id": "b9886a667c1d1fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "63184e3afafe5f30",
+            "id": "b4ef794dbedb32ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Kalenderwoche 44.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Kalenderwoche 44"
+              "icon": "diff",
+              "title": "Diff: app.json"
             }
           }
         ]
@@ -180,28 +180,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63184e3afafe5f30",
+  "active": "b4ef794dbedb32ec",
   "lastOpenFiles": [
-    "Kalenderwoche 43.md",
     "Kalenderwoche 44.md",
+    "assets/Pasted image 20251027151844.png",
+    "assets/Mockup.png",
+    "Kalenderwoche 43.md",
+    "assets/Final Yearbook Table Border Right.png",
+    "assets/Final Yearbook Table Border Left.png",
+    "assets/Old Yearbook Table.png",
+    "assets/Toggle Right Umbraco.png",
+    "assets/Toggle Left Umbraco.png",
+    "assets/Toggle Configuration Umbraco.png",
+    "assets/Programm Tag 2.png",
+    "assets/Programm Tag 1.png",
+    "Mockup.md",
+    "Kalenderwoche 42.md",
     "README.md",
     "Wochenjournal/README.md",
     "Wochenjournal",
     "Kalenderwoche 32.md",
-    "assets/Pasted image 20251024102225.png",
-    "Pasted image 20251024102045.png",
-    "Pasted image 20251024102044.png",
-    "Pasted image 20251024101958.png",
-    "assets/Pasted image 20251024093147.png",
-    "assets/Pasted image 20251024100558.png",
-    "Kalenderwoche 42.md",
     "Kalenderwoche 41.md",
-    "assets/Pasted image 20251024100554.png",
     "assets/Untitled.base",
     "assets",
-    "assets/Pasted image 20251024100526.png",
-    "assets/Pasted image 20251024100459.png",
-    "assets/Pasted image 20251024100452.png",
     "Kalenderwoche 40.md",
     "Kalenderwoche 39.md",
     "Kalenderwoche 38.md",
