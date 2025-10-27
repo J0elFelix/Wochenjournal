@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b9886a667c1d1fc9",
+        "id": "57e23acab93b091d",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ef794dbedb32ec",
+            "id": "4b265fd684cb7c6a",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "aFile": "Kalenderwoche 44.md",
+                "bFile": "Kalenderwoche 44.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: app.json"
+              "title": "Diff: Kalenderwoche 44"
             }
           }
         ]
@@ -180,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4ef794dbedb32ec",
+  "active": "4b265fd684cb7c6a",
   "lastOpenFiles": [
     "Kalenderwoche 44.md",
     "assets/Pasted image 20251027151844.png",
