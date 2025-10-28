@@ -30,7 +30,7 @@
 
 ## Donnerstag:
 
-##### Schule
+##### Schule (Prüfung M320)
 
 ---
 
