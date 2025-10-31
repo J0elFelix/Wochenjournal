@@ -36,6 +36,14 @@
 
 ## Freitag:
 
-##### Text
+##### Heute bin ich den ganzen Tag im Homeoffice und habe am morgen noch einen Zahnarzt Termin. Ich habe am Morgen noch an der Yearbook Tabelle weitergearbeitet und habe diese nun fertig. Ich musste nur noch das Layout ändern das der Umbruch nicht bei 3 sondern bei 4 Spalten gemacht wird das nur 3 Spalten auf einer Zeile sind und die vierte dann auf einer neuen Zeile darunter angelegt wird. Ich wusste nicht genau wie ich das lösen sollte und habe mal den Code genau durchgeschaut. Im Code wurde der Tabelle je 50% Breite gegeben, heisst das wenn 2 gemacht werden 100% ist und das Maximum erreicht ist. Ich musste somit nur die Breite auf 33.333% Stellen damit 3 Tabellenspalten auf einer Zeile platz haben. Danach habe ich einen Pull Request gemacht und dies auf Testadmin überprüft. Danach habe ich Joel noch gefragt ob ich auch noch ein Release bis auf Dev machen muss damit man es auch sieht wenn man auf die Testadmin URL geht. Ich konnte es dann Releasen bis auf Dev dies hat auch ohne jegliche Fehler funktioniert, jedoch wird auf der [Testadmin](https://testadmin.ibe.migros.ch/operations) Seite immer noch das andere Design von mir dargestellt. Ich hab Joel gefragt ob das so sein muss oder ob ich noch eine zusätzliche Änderung machen muss. Wie haben es dann zusammen im Call angeschaut um 11 Uhr. Das Problem war Caching. Wenn man es im Inkognito Modus Öffnet das funktioniert es. Somit konnte ich das Ticket schliessen und mit dem Teaser weitermachen. Davor habe ich aber noch von der neuen Version einen Screenshot an Sandra geschickt damit Sie weiss wie das neue Design nun aussieht. Beim Teaser bin ich gerade dabei das Attribut zu machen damit man dieses setzten kann ob das Bild oben sein soll und der Text unten oder das Bild ist unten und der Text ist oben. Nach dem Mittag habe ich noch ein bisschen am Teaser weitergearbeitet dort muss ich noch schauen das, dass CSS richtig funktioniert. Danach habe ich noch bisschen gelernt, weil wir nächste Woche Modul-Test haben. Ich habe beim Teaser noch den Abstand vom Texthintergrund zum Bild weggemacht damit es nun aussieht als gehöre es zusammen. Mit dem Parameter für Bild oben und Bild unten muss ich nochmal schauen weil ich sehr wahrscheinlich JavaScript brauche und schauen muss ob JavaScript funktioniert zum Verbinden.
+
+##### Fertige Yearbook Tabelle:
+
+![[Fertige Yearbook-Tabelle.png]]
+
+##### Aktueller Stand Teaser:
+
+![[Aktueller Stand Teaser.png]]
 
 ---

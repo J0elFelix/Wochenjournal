@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fc59639b52a7426c",
+        "id": "55f0e105b983f450",
         "type": "tabs",
         "children": [
           {
-            "id": "17f327daab255fb2",
+            "id": "1fd3bcbdac71305a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "assets/Aktueller Stand Teaser.png"
+              },
+              "icon": "lucide-image",
+              "title": "Aktueller Stand Teaser"
             }
           }
         ]
@@ -176,20 +178,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061aabc6787c55e4",
+  "active": "098a053bbd5821a5",
   "lastOpenFiles": [
-    "assets/Zwischenstand Teaser-Namespace.png",
     "Kalenderwoche 44.md",
+    "assets/Aktueller Stand Teaser.png",
+    "Kalenderwoche 45.md",
+    "Kalenderwoche 43.md",
+    "assets/Fertige Yearbook-Tabelle.png",
+    "().md",
+    "assets/Zwischenstand Teaser-Namespace.png",
     "assets/Yearbook Tabelle angepasst.png",
     "assets/Mockup.png",
     "README.md",
-    "Kalenderwoche 43.md",
     "assets/JS Aufgabe.png",
     "assets/Pasted image 20251027151844.png",
     "assets/Final Yearbook Table Border Right.png",
     "assets/Final Yearbook Table Border Left.png",
     "assets/Old Yearbook Table.png",
-    "assets/Toggle Right Umbraco.png",
     "Mockup.md",
     "Kalenderwoche 42.md",
     "Wochenjournal/README.md",
