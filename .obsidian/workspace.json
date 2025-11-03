@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55f0e105b983f450",
+        "id": "6ff27dc53e9e1e44",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd3bcbdac71305a",
+            "id": "40842801d9adcc40",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Aktueller Stand Teaser.png"
+                "file": "Kalenderwoche 45.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Aktueller Stand Teaser"
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 45"
             }
           }
         ]
@@ -178,38 +180,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098a053bbd5821a5",
+  "active": "40842801d9adcc40",
   "lastOpenFiles": [
+    "README.md",
     "Kalenderwoche 44.md",
-    "assets/Aktueller Stand Teaser.png",
-    "Kalenderwoche 45.md",
     "Kalenderwoche 43.md",
+    "Kalenderwoche 42.md",
+    "Kalenderwoche 41.md",
+    "Kalenderwoche 40.md",
+    "Kalenderwoche 39.md",
+    "assets/HomePage Library.png",
+    "assets/HomePage Library 1.png",
+    "Kalenderwoche 37.md",
+    "Kalenderwoche 36.md",
+    "Kalenderwoche 38.md",
+    "Kalenderwoche 35.md",
+    "Kalenderwoche 34.md",
+    "Kalenderwoche 33.md",
+    "Kalenderwoche 32.md",
+    "Kalenderwoche 45.md",
+    "assets/Aktueller Stand Teaser.png",
     "assets/Fertige Yearbook-Tabelle.png",
     "().md",
     "assets/Zwischenstand Teaser-Namespace.png",
     "assets/Yearbook Tabelle angepasst.png",
     "assets/Mockup.png",
-    "README.md",
     "assets/JS Aufgabe.png",
     "assets/Pasted image 20251027151844.png",
     "assets/Final Yearbook Table Border Right.png",
-    "assets/Final Yearbook Table Border Left.png",
-    "assets/Old Yearbook Table.png",
     "Mockup.md",
-    "Kalenderwoche 42.md",
     "Wochenjournal/README.md",
     "Wochenjournal",
-    "Kalenderwoche 32.md",
-    "Kalenderwoche 41.md",
     "assets/Untitled.base",
-    "assets",
-    "Kalenderwoche 40.md",
-    "Kalenderwoche 39.md",
-    "Kalenderwoche 38.md",
-    "Kalenderwoche 37.md",
-    "Kalenderwoche 36.md",
-    "Kalenderwoche 35.md",
-    "Kalenderwoche 34.md",
-    "Kalenderwoche 33.md"
+    "assets"
   ]
 }
