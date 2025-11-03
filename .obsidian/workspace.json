@@ -11,14 +11,12 @@
             "id": "40842801d9adcc40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Kalenderwoche 45.md",
-                "mode": "preview",
-                "source": false
+                "file": "assets/Deckblatt Semesterbericht 3.png"
               },
-              "icon": "lucide-file",
-              "title": "Kalenderwoche 45"
+              "icon": "lucide-image",
+              "title": "Deckblatt Semesterbericht 3"
             }
           }
         ]
@@ -180,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40842801d9adcc40",
+  "active": "098a053bbd5821a5",
   "lastOpenFiles": [
-    "README.md",
+    "Kalenderwoche 45.md",
+    "assets/Deckblatt Semesterbericht 3.png",
     "Kalenderwoche 44.md",
+    "README.md",
     "Kalenderwoche 43.md",
     "Kalenderwoche 42.md",
     "Kalenderwoche 41.md",
@@ -198,7 +198,6 @@
     "Kalenderwoche 34.md",
     "Kalenderwoche 33.md",
     "Kalenderwoche 32.md",
-    "Kalenderwoche 45.md",
     "assets/Aktueller Stand Teaser.png",
     "assets/Fertige Yearbook-Tabelle.png",
     "().md",
@@ -207,7 +206,6 @@
     "assets/Mockup.png",
     "assets/JS Aufgabe.png",
     "assets/Pasted image 20251027151844.png",
-    "assets/Final Yearbook Table Border Right.png",
     "Mockup.md",
     "Wochenjournal/README.md",
     "Wochenjournal",
