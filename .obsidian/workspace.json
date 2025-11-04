@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65d6289a4d08b1a1",
+        "id": "0b85dc44b6198ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "091d8db92c13cf89",
+            "id": "beb4aa3b67724cac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kalenderwoche 46.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kalenderwoche 46"
+              "title": "New tab"
             }
           }
         ]
@@ -180,15 +176,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "091d8db92c13cf89",
+  "active": "061aabc6787c55e4",
   "lastOpenFiles": [
+    "assets/Teaser.png",
+    "assets/Bisherige AusgabenPage Library.png",
+    "assets/Aktueller Stand Teaser.png",
     "Kalenderwoche 45.md",
     "Kalenderwoche 46.md",
-    "assets/Deckblatt Semesterbericht 3.png",
     "Kalenderwoche 44.md",
-    "README.md",
-    "Kalenderwoche 43.md",
     "Kalenderwoche 42.md",
+    "Kalenderwoche 43.md",
+    "assets/Deckblatt Semesterbericht 3.png",
+    "README.md",
     "Kalenderwoche 41.md",
     "Kalenderwoche 40.md",
     "Kalenderwoche 39.md",
@@ -201,14 +200,12 @@
     "Kalenderwoche 34.md",
     "Kalenderwoche 33.md",
     "Kalenderwoche 32.md",
-    "assets/Aktueller Stand Teaser.png",
     "assets/Fertige Yearbook-Tabelle.png",
     "().md",
     "assets/Zwischenstand Teaser-Namespace.png",
     "assets/Yearbook Tabelle angepasst.png",
     "assets/Mockup.png",
     "assets/JS Aufgabe.png",
-    "assets/Pasted image 20251027151844.png",
     "Mockup.md",
     "Wochenjournal/README.md",
     "Wochenjournal",
