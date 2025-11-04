@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff27dc53e9e1e44",
+        "id": "65d6289a4d08b1a1",
         "type": "tabs",
         "children": [
           {
-            "id": "40842801d9adcc40",
+            "id": "091d8db92c13cf89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Deckblatt Semesterbericht 3.png"
+                "file": "Kalenderwoche 45.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Deckblatt Semesterbericht 3"
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 45"
             }
           }
         ]
@@ -178,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098a053bbd5821a5",
+  "active": "091d8db92c13cf89",
   "lastOpenFiles": [
-    "Kalenderwoche 45.md",
     "assets/Deckblatt Semesterbericht 3.png",
+    "Kalenderwoche 45.md",
     "Kalenderwoche 44.md",
     "README.md",
     "Kalenderwoche 43.md",

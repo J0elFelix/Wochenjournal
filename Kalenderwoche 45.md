@@ -10,7 +10,7 @@
 
 ## Dienstag:
 
-##### Text
+##### Ich habe am Morgen meinen Semesterbericht durchgeschaut und eine Kopie als PDF gemacht damit ich weiss wie es schlussendlich auf dem PDF aussieht. Ich bin nun soweit fertig. Ich habe nur noch ein Auftrag an dem ich am schreiben bin. Diesen kann ich jedoch noch nicht fertig schreiben da ich aktuell noch daran am arbeiten bin. Sobald ich damit fertig bin kann ich im Semesterbericht den Auftrag fertig schreiben. Ich habe beim Namespace plain-no-border- noch den style vom Titel angepasst und nun kann ich das Attribut schreiben. Am Nachmittag habe ich noch bisschen gelernt weil ich am Donnerstag einen Modultest habe. Es ist aber nur Theorie also einfach auswendig lernen und verstehen.
 
 ---
 
@@ -28,6 +28,6 @@
 
 ## Freitag:
 
-##### Text
+##### Agile Basics Kurs in Zürich
 
 ---
