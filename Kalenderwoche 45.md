@@ -32,6 +32,6 @@
 
 ## Freitag:
 
-##### Agile Basics Kurs in Zürich
+##### Agile Basics Kurs in Zürich (Ganztägig)
 
 ---

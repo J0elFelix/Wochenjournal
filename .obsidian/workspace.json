@@ -11,10 +11,14 @@
             "id": "beb4aa3b67724cac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kalenderwoche 45.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kalenderwoche 45"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061aabc6787c55e4",
+  "active": "beb4aa3b67724cac",
   "lastOpenFiles": [
     "assets/Teaser.png",
     "assets/Bisherige AusgabenPage Library.png",
