@@ -10,7 +10,11 @@
 
 ## Dienstag:
 
-##### Text
+##### Ich habe noch eine Rückmeldung von Sandra bekommen bezüglich dem Teaser. Der Hintergrund vom Text soll wenn es 2 Spalten hat grösser sein. Ich habe dies mal umgesetzt und schaue das nachher noch mit Joel an. Ich hatte dann noch das Meeting mit Joel um die Mutobo Bibliothek zu deployen. Wir haben kurz die Bibliothek angeschaut und Joel hat mir dann gezeigt wie man es deployed. Nun ist die Bibliothek online auf diesem [Link](https://www.mutobo.com). Danach habe ich im meinen Teaser gezeigt. Der Hintergrund sieht gut aus wenn es nur 2 Boxen hat aber wenn es 3 hat ist es schon fast zu gross. Ich habe mal Dino geschrieben damit wir den Code gemeinsam anschauen können und wenn wir keine Lösung finden für die Grösse vom Hintergrund kann ich als Notlösung 2 Klassen erstellen und mit einer Abfrage fragen ob es 2 oder 3 Boxen hat und je nachdem nimmt es die eine oder die andere Klasse und somit diesen Style. Dino ist noch in einem Meeting und schreibt mir danach zurück. Ich habe Dino nun einen Termin auf den Freitag Vormittag gemacht um das Review zu machen. Da ich nun heute Nachmittag sonst nichts mehr zu tun habe, kann ich eine Skizze machen zum neuen feature. Das neue Feature ist eine Zeitanzeige wann ein Einkaufszentrum auf- und zumacht. Nun soll es noch speziell dargestellt werden und ich soll mir mal Gedanken machen wie ich dies machen will. Dies wurde schon einmal umgesetzt aber ich kann dies nun selbst nochmal neu machen.
+
+##### Schon umgesetztes:
+
+![[Vorhandenes Feature Zeit markierung.png]]
 
 ---
 
@@ -22,7 +26,7 @@
 
 ## Donnerstag:
 
-##### Schule
+##### Schule (Prüfung M114)
 
 ---
 
