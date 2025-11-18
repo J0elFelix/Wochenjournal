@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "895b638fb68f2c5a",
+        "id": "2bee6edf756293d2",
         "type": "tabs",
         "children": [
           {
-            "id": "6c847d6b9bf5d847",
+            "id": "6533119dde34ba5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kalenderwoche 47.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kalenderwoche 47"
             }
           }
         ]
@@ -176,10 +180,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c847d6b9bf5d847",
+  "active": "6533119dde34ba5c",
   "lastOpenFiles": [
-    "Kalenderwoche 46.md",
+    "assets/Spezielle Öffnungszeiten.png",
+    "assets/Schliesst bald.png",
+    "assets/Geschlossen.png",
+    "assets/Geöffnet.png",
+    "assets/Pasted image 20251118095622.png",
     "Kalenderwoche 47.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "2025-11-18.md",
+    "assets/Öffnungszeiten Komponente Ticket.png",
+    "Kalenderwoche 46.md",
     "Kalenderwoche 45.md",
     "README.md",
     "assets/Vorhandenes Feature Zeit markierung.png",
@@ -193,21 +207,16 @@
     "Kalenderwoche 44.md",
     "Kalenderwoche 42.md",
     "Kalenderwoche 43.md",
-    "assets/Deckblatt Semesterbericht 3.png",
     "Kalenderwoche 41.md",
     "Kalenderwoche 40.md",
     "Kalenderwoche 39.md",
-    "assets/HomePage Library.png",
-    "assets/HomePage Library 1.png",
     "Kalenderwoche 37.md",
     "Kalenderwoche 36.md",
     "Kalenderwoche 38.md",
     "Kalenderwoche 35.md",
     "Kalenderwoche 34.md",
     "Kalenderwoche 33.md",
-    "assets/Fertige Yearbook-Tabelle.png",
     "().md",
-    "assets/Zwischenstand Teaser-Namespace.png",
     "Mockup.md",
     "Wochenjournal/README.md",
     "Wochenjournal",

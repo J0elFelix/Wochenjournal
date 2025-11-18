@@ -1,0 +1,18 @@
+{
+  "todoist-text:todoist-task-pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "todoist-text:toggle-todoist-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
