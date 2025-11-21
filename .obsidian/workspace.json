@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bee6edf756293d2",
+        "id": "393610b4c17f88d3",
         "type": "tabs",
         "children": [
           {
-            "id": "6533119dde34ba5c",
+            "id": "ed18842d4b596526",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Öffnungszeiten Komponente Ticket.png"
+                "file": "Kalenderwoche 47.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Öffnungszeiten Komponente Ticket"
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 47"
             }
           }
         ]
@@ -178,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061aabc6787c55e4",
+  "active": "ed18842d4b596526",
   "lastOpenFiles": [
-    "assets/Pasted image 20251118095622.png",
-    "assets/Öffnungszeiten Komponente Ticket.png",
-    "Kalenderwoche 47.md",
-    "Kalenderwoche 45.md",
     "Kalenderwoche 46.md",
+    "Kalenderwoche 47.md",
+    "assets/Öffnungszeiten Komponente Ticket.png",
+    "assets/Pasted image 20251118095622.png",
+    "Kalenderwoche 45.md",
     "assets/Spezielle Öffnungszeiten.png",
     "assets/Schliesst bald.png",
     "assets/Geschlossen.png",

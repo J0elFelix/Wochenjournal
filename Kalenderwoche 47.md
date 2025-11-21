@@ -43,6 +43,6 @@
 
 ## Freitag:
 
-##### Text
+##### Am Mittwoch hatte ich die zweite English Prüfung und ich habe ein sehr gutes Gefühl dabei, da ich alles sehr sicher lösen konnte. Nächste Woche habe ich wider einen Modul Test und werde dafür heute schon ein bisschen lernen. Am morgen habe ich noch kurz mit Dino geschrieben und wird haben am Montag einen Termin vereinbart um ein Review von meinem PR zu machen. Danach habe ich an dem Öffnungszeiten  Feature weitergearbeitet und habe angefangen als Test das feature bei mir Lokal ins Umbraco zu integrieren. Dafür habe ich ein neues Projekt erstellt. Dabei sehe ich gleich wie ich es dann schlussendlich im Umbraco umsetzen könnte und wie das genau funktioniert und am Mittag bin ich dann ins Homeoffice gegangen. Am Nachmittag habe ich daran weitergearbeitet und ich bin mir noch nicht sicher wie ich es machen will da es nicht sehr übersichtlich ist aber ich habe mal einen Ansatz wie ich es machen könnte. Die Umsetzung könnte jedoch etwas schwierig werden denke ich.
 
 ---
