@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c34249fa23cdd035",
+        "id": "1f6d18daa8c771e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e71bf491c2dad6c8",
+            "id": "1d685d2a51b4ead9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Kalenderwoche 48.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Kalenderwoche 48"
             }
           }
         ]
@@ -180,12 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e71bf491c2dad6c8",
+  "active": "1d685d2a51b4ead9",
   "lastOpenFiles": [
+    "Kalenderwoche 49.md",
+    "Kalenderwoche 50.md",
     "Kalenderwoche 48.md",
+    "assets/Aktueller Stand Öffnungszeiten Komponente.png",
+    "assets/Programm Tag 1.png",
+    "Modul 254 (Vorübergehend).md",
+    "README.md",
     "Kalenderwoche 47.md",
     "Kalenderwoche 46.md",
-    "README.md",
     "assets/Öffnungszeiten Komponente Ticket.png",
     "assets/Pasted image 20251118095622.png",
     "Kalenderwoche 45.md",
@@ -202,8 +207,6 @@
     "assets/Padding angepasst plain no border.png",
     "Kalenderwoche 32.md",
     "Kalenderwoche.md",
-    "assets/Teaser.png",
-    "assets/Bisherige AusgabenPage Library.png",
     "Kalenderwoche 44.md",
     "Kalenderwoche 42.md",
     "Kalenderwoche 43.md",
@@ -218,7 +221,6 @@
     "Kalenderwoche 33.md",
     "().md",
     "Mockup.md",
-    "Wochenjournal/README.md",
     "Wochenjournal",
     "assets/Untitled.base",
     "assets"
