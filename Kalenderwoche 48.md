@@ -6,7 +6,11 @@
 
 ## Dienstag:
 
-##### Text
+##### Am morgen habe ich die Dokumentation von mdn über Web Components weiter durchgelesen. Danach habe ich ein bisschen an der Öffnungszeiten Komponente weitergearbeitet und hatte dann um 10:00 den Termin um den Anforderungskatalog zu schärfen. Wir mussten keine Anforderungen Ändern oder hinzufügen. Was ich aber beim testen dann machen muss ist die Zeiten überprüfen ob diese Korrekt sind. Zum Beispiel wenn die Zeitumstellung ist ob es dann immer noch Korrekt funktioniert. Danach habe ich Dino gefragt ob er die mdx liste mit den svg noch hat damit ich "Migros-approved" svg verwenden kann. Ich habe diese dann bekommen und konnte es einbauen. Ich musste meinen HTML Code etwas umstellen weil ich das svg hinzufügen musste. Ich habe mich dort ein bisschen der Struktur von Migros City orientiert. Ich hatte es ziemlich schnell platziert aber damit es mit den Farben sich verändert hat länger gedauert. Schlussendlich hat es dann funktioniert und ich habe Joel geschrieben um ihm meinen jetzigen Stand zu zeigen und habe mich daran gemacht es Responsive zu machen. Ich habe es geschaft responsive zu machen und muss Joel noch fragen ob das so passt oder ob es eine spezielle Anzeige braucht wenn es auf Mobile ist. 
+
+##### Aktueller Stand:
+
+![[Aktueller Stand Öffnungszeiten Komponente.png]]
 
 ---
 
@@ -24,5 +28,5 @@
 
 ## Freitag:
 
-##### Text
+##### Ich habe heute an meiner Quartalsarbeit weitergearbeitet und Daten gesammelt damit ich es dann nur noch einfügen muss. Sonst habe ich noch an der Öffnungszeiten Komponente weitergearbeitet und herumprobiert.
 ---
