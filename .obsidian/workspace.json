@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kalenderwoche 51.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalenderwoche 51"
+              "title": "README"
             }
           }
         ]
@@ -182,14 +182,14 @@
   },
   "active": "1d685d2a51b4ead9",
   "lastOpenFiles": [
-    "Kalenderwoche 48.md",
-    "Kalenderwoche 51.md",
     "Kalenderwoche 49.md",
+    "README.md",
+    "Kalenderwoche 51.md",
+    "Kalenderwoche 48.md",
     "Kalenderwoche 50.md",
     "assets/Aktueller Stand Öffnungszeiten Komponente.png",
     "assets/Programm Tag 1.png",
     "Modul 254 (Vorübergehend).md",
-    "README.md",
     "Kalenderwoche 47.md",
     "Kalenderwoche 46.md",
     "assets/Öffnungszeiten Komponente Ticket.png",
