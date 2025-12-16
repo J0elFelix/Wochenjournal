@@ -6,7 +6,7 @@
 
 ## Dienstag:
 
-##### Text (Abgabe Quartalsarbeit)
+##### Heute morgen habe ich mir meine Quartalsarbeit nochmal durchgeschaut ob alles vorhanden ist und habe dann diese abgegeben. Jetzt sind noch 3 Projekte vor Weihnachten offen. Danach habe ich am Teaser weitergearbeitet. Jedoch bin ich bei den simulate-children nicht weitergekommen und habe deshalb Joel gefragt. Er hat es dann mit mir angeschaut und ist zuerst auch nicht auf eine Lösung gekommen. Er hat es dann schlussendlich herausgefunden und das Problem war das diese momentan nur die aktuelle Zeile beeinfluss und die darunter folgenden ignorieren. Deshalb muss ich für jede Zeile einen o-wrapper und einen simulate-children setzen. Dann habe ich ihn noch gefragt wie ich die JavaScript Funktion wieder brauchbar machen kann. Ich muss diese ins JS File schreiben und dann funktioniert es wider. Ich habe dann damit begonnen und Dino noch geschrieben ob er am Freitag Zeit hat um nochmal ein Code Review machen kann mit mir mit dem neuen Code. Wir haben dann einen Termin für den Freitag Nachmittag ausgemacht. Danach habe ich weiter am Teaser gearbeitet und geschaut wie ich die JS Funktion reinbringe damit sie wider funktioniert und habe mich auch noch in mein M346 Projekt besser eingelesen das ich vor Weihnachten noch abgeben muss. In dem Gruppenprojekt müssen wir mit AWS CLI ein Skript machen und wenn das Skript gestartet wird werden 2 AWS S3 Buckets erstellt. Einmal einen IN-Bucket und einen OUT-Bucket. In Den IN-Bucket kommt ein Bild von einer berühmten Person. Beim OUT-Bucket soll ein JSON Response rauskommen das die Person identifiziert hat. 
 
 ---
 
