@@ -24,5 +24,5 @@
 
 ## Freitag:
 
-##### Text (Abgabe M346 & Mathe Projekt)
+##### Am Morgen hat Joel noch meine ÜK Note bekommen per Mail. Die hat er mir weitergeleitet und ich bin sehr zufrieden mit meiner 5.5. Danach hatte ich das Meeting mit Dino. Wir haben es am morgen statt am Nachmittag gemacht. Nach dem Meeting habe ich weiter am plain-no-border- gemacht und wir schauen dann am Montag weiter. Am Mittag bin ich dann nach hause gegangen ins Homeoffice. Dort habe ich auch noch weitergemacht und habe dann noch etwas für die Schule gemacht. 
 ---
