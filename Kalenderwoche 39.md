@@ -17,7 +17,6 @@
 ![[Redesign Yearbook Table Responsiv.png]]
 
 ---
-
 ## Dienstag:
 
 ##### Am Morgen habe ich meinen Bildungsbericht auf Teams hochgeladen und habe danach weiter an der Tabelle gearbeitet. Im Moment bin ich daran das wenn man den Border von top auf left ändert sich der links Abstand von den Buchstaben ändert weil diese sonst am border kleben. Dies funktioniert jedoch noch nicht so wie gewollt. Dafür ist die Tabelle nun dynamisch und man kann ganz leicht eine Tabelle hinzufügen oder löschen. Nun brauche ich nur noch einen Punkt auf meiner liste. Nach dem Mittag habe ich noch Silvan geschrieben wann er Zeit hat um einen Termin abzumachen damit wir besprechen können was an der Tabelle noch gemacht oder verändert werden muss. Später hatte ich dann das Meeting um die Schnuppertage vorzubereiten für nächste Woche. Danach habe ich dann weiter an der Tabelle gearbeitet.
@@ -29,19 +28,16 @@
 ![[Redesign Yearbook Table Border Top.png]]
 
 ---
-
 ## Mittwoch:
 
 ##### Schule
 
 ---
-
 ## Donnerstag:
 
 ##### Schule
 
 ---
-
 ## Freitag:
 
 ##### Am Morgen habe ich an der Schnupperwoche JS Aufgabe weitergearbeitet und geschaut was für eine Aufgabe ich machen möchte und wie ich es am besten ins Word schreibe sodass es verständlich ist was man tun muss und auch machbar ist. Um 10:00 hatte ich dann die Komponentenbesprechung mit Silvan. Wir konnten dann direkt die Komponente fertig stellen. Es hat eigentlich schon fast alles gepasst. Das CSS musste noch ein bisschen angepasst werden und das HTML. Die Line-Position war auch schnell fertig weil die schon so gut wie fertig war. Danach bin ich nachhause ins Homeoffice denn es war schon Mittag. Nach dem Mittag habe ich noch eine weiter JavaScript Aufgabe herausgesucht die ich in die Aufgabe integrieren kann. Danach habe ich so gut es ging diese Aufgabe ins Word geschrieben und auch getestet.
