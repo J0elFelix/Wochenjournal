@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5060d9a86826e3",
+        "id": "42ade3d737b1156f",
         "type": "tabs",
         "children": [
           {
-            "id": "c259c49e22046dc1",
+            "id": "121acf3f10badbb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Kalenderwoche 51.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Kalenderwoche 51"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ]
@@ -180,11 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c259c49e22046dc1",
+  "active": "061aabc6787c55e4",
   "lastOpenFiles": [
     "README.md",
-    "Kalenderwoche 49.md",
+    "Kalenderwoche 53.md",
+    "Kalenderwoche 52.md",
     "Kalenderwoche 51.md",
+    "Untitled.md",
+    "Kalenderwoche 49.md",
     "Kalenderwoche 48.md",
     "Kalenderwoche 50.md",
     "assets/Aktueller Stand Öffnungszeiten Komponente.png",
@@ -218,9 +221,6 @@
     "Kalenderwoche 36.md",
     "Kalenderwoche 38.md",
     "Kalenderwoche 35.md",
-    "Kalenderwoche 34.md",
-    "Kalenderwoche 33.md",
-    "().md",
     "Wochenjournal",
     "assets/Untitled.base",
     "assets"
