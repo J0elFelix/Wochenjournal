@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42ade3d737b1156f",
+        "id": "e082493a1dfeda5c",
         "type": "tabs",
         "children": [
           {
-            "id": "121acf3f10badbb4",
+            "id": "24549931124610f5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "Kalenderwoche 52.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 52"
             }
           }
         ]
@@ -180,16 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061aabc6787c55e4",
+  "active": "24549931124610f5",
   "lastOpenFiles": [
-    "README.md",
     "Kalenderwoche 53.md",
     "Kalenderwoche 52.md",
     "Kalenderwoche 51.md",
-    "Untitled.md",
-    "Kalenderwoche 49.md",
-    "Kalenderwoche 48.md",
     "Kalenderwoche 50.md",
+    "Kalenderwoche 48.md",
+    "Kalenderwoche 49.md",
+    "README.md",
+    "Untitled.md",
     "assets/Aktueller Stand Öffnungszeiten Komponente.png",
     "assets/Programm Tag 1.png",
     "Modul 254 (Vorübergehend).md",
