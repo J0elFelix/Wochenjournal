@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "731a0911a130bdf9",
+        "id": "b0cbcc2d23ef7be2",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ffdfd89b84980d",
+            "id": "d3b392d755ca85e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kalenderwoche 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kalenderwoche 2"
+              "title": "New tab"
             }
           }
         ]
@@ -180,33 +176,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9ffdfd89b84980d",
+  "active": "d3b392d755ca85e1",
   "lastOpenFiles": [
-    "Kalenderwoche 1.md",
-    "Kalenderwoche 52.md",
-    "Kalenderwoche 42.md",
-    "Kalenderwoche 41.md",
-    "Kalenderwoche 40.md",
-    "Kalenderwoche 39.md",
-    "Kalenderwoche 38.md",
-    "Kalenderwoche 37.md",
-    "Kalenderwoche 36.md",
-    "Kalenderwoche 35.md",
-    "Kalenderwoche 34.md",
-    "Kalenderwoche 33.md",
-    "Kalenderwoche 32.md",
+    "2026/Kalenderwoche 2.md",
+    "Untitled.md",
     "README.md",
-    "Kalenderwoche 2.md",
-    "Kalenderwoche 45.md",
-    "Kalenderwoche 51.md",
-    "Kalenderwoche 50.md",
-    "Kalenderwoche 48.md",
-    "Kalenderwoche 49.md",
+    "test.md",
+    "2025/Kalenderwoche 32.md",
+    "2026",
+    "2025",
+    "2026/Kalenderwoche 1.md",
+    "2025/Kalenderwoche 52.md",
+    "2025/Kalenderwoche 42.md",
+    "2025/Kalenderwoche 41.md",
+    "2025/Kalenderwoche 40.md",
+    "2025/Kalenderwoche 39.md",
+    "2025/Kalenderwoche 38.md",
+    "2025/Kalenderwoche 37.md",
+    "2025/Kalenderwoche 36.md",
+    "2025/Kalenderwoche 35.md",
+    "2025/Kalenderwoche 34.md",
+    "2025/Kalenderwoche 33.md",
+    "2025/Kalenderwoche 45.md",
+    "2025/Kalenderwoche 51.md",
+    "2025/Kalenderwoche 50.md",
+    "2025/Kalenderwoche 48.md",
+    "2025/Kalenderwoche 49.md",
     "assets/Aktueller Stand Öffnungszeiten Komponente.png",
     "assets/Programm Tag 1.png",
     "Modul 254 (Vorübergehend).md",
-    "Kalenderwoche 47.md",
-    "Kalenderwoche 46.md",
+    "2025/Kalenderwoche 47.md",
+    "2025/Kalenderwoche 46.md",
     "assets/Öffnungszeiten Komponente Ticket.png",
     "assets/Pasted image 20251118095622.png",
     "assets/Spezielle Öffnungszeiten.png",
@@ -218,9 +218,7 @@
     "Untitled.canvas",
     "2025-11-18.md",
     "assets/Vorhandenes Feature Zeit markierung.png",
-    "www.mutobo.com.md",
     "assets/Padding angepasst plain no border.png",
-    "Kalenderwoche.md",
     "Wochenjournal",
     "assets/Untitled.base",
     "assets"
