@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a78b2d346fe3689a",
+        "id": "9e72b7f7fd8fa87e",
         "type": "tabs",
         "children": [
           {
-            "id": "03889555c00831dc",
+            "id": "407dcd21922ab6ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026/Kalenderwoche 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kalenderwoche 2"
             }
           }
         ]
@@ -176,12 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03889555c00831dc",
+  "active": "407dcd21922ab6ee",
   "lastOpenFiles": [
+    "assets/Häufig gestellte FragenPage Library.png",
     "2026/Kalenderwoche 2.md",
+    "README.md",
     "2026/Kalenderwoche 1.md",
     "Untitled.md",
-    "README.md",
     "test.md",
     "2025/Kalenderwoche 32.md",
     "2026",
@@ -216,7 +221,6 @@
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
-    "2025-11-18.md",
     "assets/Vorhandenes Feature Zeit markierung.png",
     "assets/Padding angepasst plain no border.png",
     "Wochenjournal",

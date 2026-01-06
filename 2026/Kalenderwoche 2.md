@@ -5,7 +5,7 @@
 ---
 ## Dienstag:
 
-##### Am Morgen habe ich eine kurze Schulung durchgeführt die neu hinzugefügt wurde. Danach habe ich  weiter an dem Frontend von der Öffnungszeiten Komponente gearbeitet. Ich bin gerade dabei die Speziellen Öffnungszeiten einzubauen. Dies habe ich am Morgen gemacht. 
+##### Am Morgen habe ich eine kurze Schulung durchgeführt die neu hinzugefügt wurde. Danach habe ich  weiter an dem Frontend von der Öffnungszeiten Komponente gearbeitet. Ich bin gerade dabei die Speziellen Öffnungszeiten einzubauen. Dies habe ich am Morgen gemacht. Nach dem Mittag habe ich mir Gedanken zur Backend-Umsetzung gemacht. Ich habe mir aufgeschrieben welche Fieldtypes ich verwenden möchte und wie ich es ungefähr aufbauen kann. Ich habe es mal in Umbraco getestet aber noch ohne Code Implementation, weil ich nur schauen wollte ob es möglich ist es so aufzubauen wie ich es mir vorgestellt habe. Dies hat auch relativ gut funktioniert. Danach habe ich noch am Frontend weitergemacht dies ist jedoch schon so gut wie fertig. 
 
 ---
 ## Mittwoch:
