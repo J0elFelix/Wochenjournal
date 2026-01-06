@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0cbcc2d23ef7be2",
+        "id": "a78b2d346fe3689a",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b392d755ca85e1",
+            "id": "03889555c00831dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,16 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3b392d755ca85e1",
+  "active": "03889555c00831dc",
   "lastOpenFiles": [
     "2026/Kalenderwoche 2.md",
+    "2026/Kalenderwoche 1.md",
     "Untitled.md",
     "README.md",
     "test.md",
     "2025/Kalenderwoche 32.md",
     "2026",
     "2025",
-    "2026/Kalenderwoche 1.md",
     "2025/Kalenderwoche 52.md",
     "2025/Kalenderwoche 42.md",
     "2025/Kalenderwoche 41.md",
