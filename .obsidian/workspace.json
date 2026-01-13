@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d78fbdc00494137",
+        "id": "5dd350aee9b749ba",
         "type": "tabs",
         "children": [
           {
-            "id": "8118a9a3a493e226",
+            "id": "c7b62b81e73086c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,11 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8118a9a3a493e226",
+  "active": "c7b62b81e73086c0",
   "lastOpenFiles": [
+    "assets/web-components-toolbox-joel-felix.png",
+    "2026/Kalenderwoche 3.md",
+    "2028",
+    "2027",
     "assets/Farben für Öffnungszeiten.png",
     "assets/Pasted image 20260112162148.png",
-    "2026/Kalenderwoche 3.md",
     "assets/Finales Design der Öffnungszeiten Komponente.png",
     "assets/Final Yearbook Table Border Right.png",
     "assets/Pasted image 20260112131821.png",
@@ -216,7 +219,6 @@
     "2025/Kalenderwoche 48.md",
     "2025/Kalenderwoche 49.md",
     "assets/Aktueller Stand Öffnungszeiten Komponente.png",
-    "assets/Programm Tag 1.png",
     "Modul 254 (Vorübergehend).md",
     "2025/Kalenderwoche 47.md",
     "Untitled.base",
