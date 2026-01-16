@@ -29,6 +29,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich weiter gearbeitet an der Öffnungszeiten Komponente. Dino hat für mich das Repo fertig eingerichtet und ich konnte auf meinem neuen Branch denn ich vom Repo gemacht habe beginnen zu arbeiten. Da es eine Komponente werden sollte habe ich einen neue erstellt im Ordner `molecules`. Danach habe ich im `index.html` die Seite noch verlinkt und konnte dann danach beginnen meine Komponente zu schreiben. Ich habe es schon bei mir lokal geschrieben jedoch nicht als Web Komponente. Das HTML hatte ich schnell da dies nicht besonders viel ist. Beim JavaScript dauerte es etwas länger aber da ich schon die ganze Logik hatte musste ich nicht mehr viel umschreiben. Ich habe es getestet ob alles so funktioniert wie es soll und noch geschaut ob ich es noch irgendwo anpassen muss. Dies habe ich nach dem Mittag getan. Als ich damit fertig war habe ich Joel geschrieben das ich mit dem Frontend soweit fertig bin und habe ihm einen Link zu meinem Branch gesendet damit er den Code direkt anschauen kann. Der nächste Schritt wäre es das Backend zu schreiben damit es mit dem Frontend verknüpft ist. Für dies muss ich jedoch noch warten da ich zuerst auf die Antwort von Joel warten muss um zu schauen ob das Frontend passt oder ob ich noch Änderungen vornehmen muss. In der Zwischenzeit habe ich die Grobumsetzung vom Backend aufgeschrieben und in Umbraco etwas herumgespielt wie es nachher aussehen könnte.
 
 ---
