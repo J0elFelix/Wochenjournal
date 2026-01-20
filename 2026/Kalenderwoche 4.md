@@ -5,7 +5,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen hat mir Joel noch zurückgeschrieben dass es soweit super ist. Ich habe ich noch gefragt wie man die Submodule einbaut und habe mir dies auch noch aufgeschrieben dass ich beim nächsten mal nicht mehr fragen muss wenn ich es gerade nicht mehr weiss. Ich habe es dann kurz getestet ob es funktioniert hat und habe dann begonnen mit dem Backend. Ich bekomme nun die Daten und denn Link in der Konsole aber ich kann es noch nicht anzeigen lassen. Wenn ich etwas anzeigen lassen will dann werden alle Daten dargestellt und ich so wie ich es gerne hätte. Aber es ist schon mal ein guter Anfang. Nach dem Mittag habe ich weitergemacht und etwas herumgespielt wie ich es am besten machen könnte. Dies habe ich dann den ganzen Nachmittag probiert.
 
 ---
 ## Mittwoch:
