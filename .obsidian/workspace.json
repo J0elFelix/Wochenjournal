@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Kalenderwoche 5.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalenderwoche 5"
+              "title": "README"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "0562701124354dc9",
   "lastOpenFiles": [
-    "2026/Kalenderwoche 4.md",
     "2026/Kalenderwoche 5.md",
+    "2026/Kalenderwoche 4.md",
     "README.md",
     "2026/Kalenderwoche 3.md",
     "2026/Kalenderwoche 2.md",
