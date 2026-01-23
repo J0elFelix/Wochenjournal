@@ -20,6 +20,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Am morgen habe ich an der Öffnungszeiten Komponente weitergearbeitet. Ich habe gemerkt dass das Submodule gar nicht richtig reingeladen wird und musste dies noch beheben. Ich hatte dann noch einen sehr grossen Fehler mit dem Git. Dies konnte ich jedoch dann beheben aber habe dabei sehr viel Zeit verloren. Das Backend mit den regulären Zeiten funktioniert nun aber die Anzeige kann noch nicht dargestellt werden da im Frontend noch irgendetwas nicht richtig ist oder sonst irgendwo. Nach dem Mittag habe ich dann daran weitergearbeitet. Es hat dann einigermassen funktioniert aber die Anzeige kommt immer noch nicht. Ich denke das ich etwas an der Web Komponente falsch geschrieben habe und es somit den Style nicht nimmt. Dies muss ich dann am Montag nach den Ferien noch anschauen. 
 
 ---
