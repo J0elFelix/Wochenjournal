@@ -5,8 +5,7 @@
 ---
 ## Dienstag:
 
-##### Text
-
+##### Am Morgen habe ich an der Öffnungszeiten Komponente weitergemacht. Ich bin immer noch beim gleichen Problem. Um 10:00 Uhr hatte ich dann das Bildungsgespräch mit Joel und Bruno. Bruno war nicht vor Ort und war Remote dabei. Das Bildungsgespräch lief sehr gut und muss mich in der Schule noch ein wenig steigern aber bis jetzt ist es ein guter Anfang. Die ÜK Note haben wir auf eine 5.5 gesetzt was ich denke ist machbar. Die restlichen Noten haben wir alle auf eine 5.0 gesetzt. Ich denke das es in den Normalen Fächer machbar ist und in den Modulen muss ich immer gut lernen und dann ist dies auch machbar. Nach dem Mittag habe ich den Bildungsbericht zurückbekommen und den Punkt 7. noch ausgefüllt und den Bericht unterschrieben. Danach habe ich ihn auch direkt von meinem Vater unterschreiben lassen und konnte ihn danach einscannen gehen und danach auf Teams hochladen. Wenn ich mit der Komponente nicht weiterkomme werde ich bald mal Joel Fragen wegen ein wenig Hilfe, weil ich im Moment gerade nicht weiter weiss oder wo das Problem liegen könnte für den Fehler. 
 ---
 ## Mittwoch:
 
