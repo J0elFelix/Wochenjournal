@@ -27,3 +27,4 @@
 ##### - [[Kalenderwoche 4]]
 ##### - [[Kalenderwoche 5]]
 ##### - [[Kalenderwoche 6]]
+##### - [[Kalenderwoche 7]]
