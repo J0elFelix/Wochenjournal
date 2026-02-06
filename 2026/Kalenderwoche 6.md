@@ -19,6 +19,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich an der Komponente weitergearbeitet und habe es dann auch endlich geschafft das die Öffnungszeiten angezeigt werden. Es werden im Moment noch die Daten vom Frontend genommen und nicht diese die ich im Backend eingetragen habe aber ich schaue noch das ich das noch hinkriege. Vor dem Mittag hat Joel kurz meinen Stand angeschaut. Ich hatte das Problem das ich auf einem Eigenen Repo gearbeitet habe und somit nicht alle Settings hatte und deshalb konnte ich nur über Umwege die Öffnungszeiten Anzeigen. Joel hat dann gesagt das ich mal pausieren kann mit der Komponente und die neuen Dinge anschauen kann mit denen wir arbeiten werden. Somit kann ich dann die Öffnungszeiten Komponente viel einfacher bauen. Nun habe ich meinen aktuellen Stand ins Repo hochgeladen und das neue Repo geklont und bin nun dabei dieses einzurichten und das Readme durchzulesen und danach kann ich dann mit einem Tutorial zu Lit starten.
 
 ---
