@@ -22,6 +22,8 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich noch die Termin für die Daily Meetings angenommen und mir noch durchgelesen was am Kickoff so passiert ist. Danach habe ich geschaut was ich schon erledigen könnte. Ich kann nun ein Audioplayer Modul erstellen. Da das Repo noch nicht vorhanden ist habe ich es begonnen im changeMigros Projekt zu erstellen. Die Anforderungen habe ich teils schon erhalten und das Figma habe ich auch. Ich habe nun das Umbraco Backoffice so gut wie möglich aufgebaut und alle nötigen Folder und Files angelegt. Ich kann nun alle nötigen Dinge anzeigen. Nun muss ich nur noch das Styling erledigen und wäre für das erste somit schon fertig. Ich habe mir in der Zwischenzeit mal die Unklaren Dinge aufgeschrieben die ich dann am Montag fragen kann. Danach habe ich dann mit dem Design begonnen. Dabei habe ich zwei Elemente noch weggelassen da diese im Figma nicht drin sind. Das Design war nichts so schwierig und hat nur etwas zeit gekostet es richtig darzustellen. Worauf ich schauen musste war das wenn das Bild nicht existiert das der Text auf der rechten Seite bleibt und nicht auf die Linke Seite rüber rutscht. Dies habe ich dann aber auch geschafft. Nun bin ich soweit fertig und muss dann am Montag meine Fragen noch stellen damit ich das  Module abschliessen kann. Natürlich muss ich es dann noch in das richtige Repo kopieren da ich im Moment im changeMigros Repo arbeite bei mir Lokal.
+
+![[Pasted image 20260213161725.png]]
 
 ---
