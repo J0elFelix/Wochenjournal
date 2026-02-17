@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35e1202b2eb05794",
+        "id": "27ef843c0dbcb78a",
         "type": "tabs",
         "children": [
           {
-            "id": "4fcb1becb3669c37",
+            "id": "f76d1d21053f70ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2026/Kalenderwoche 8.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Kalenderwoche 8"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -180,12 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fcb1becb3669c37",
+  "active": "061aabc6787c55e4",
   "lastOpenFiles": [
-    "2026/Kalenderwoche 7.md",
-    "2026/Kalenderwoche 8.md",
-    "README.md",
     "assets/Pasted image 20260213161725.png",
+    "2026/Kalenderwoche 8.md",
+    "assets/Audioplayer Module.png",
+    "2026/Kalenderwoche 7.md",
+    "README.md",
     "assets/Teaser Custom.png",
     "2026/Kalenderwoche 4.md",
     "2026/Kalenderwoche 5.md",
@@ -205,7 +206,6 @@
     "assets/Final Yearbook Table Border Right.png",
     "assets/Pasted image 20260112131821.png",
     "assets/Pasted image 20260112131801.png",
-    "assets/Pasted image 20260112131736.png",
     "test.md",
     "2025/Kalenderwoche 32.md",
     "2026",
@@ -221,7 +221,6 @@
     "2025/Kalenderwoche 35.md",
     "2025/Kalenderwoche 34.md",
     "2025/Kalenderwoche 33.md",
-    "2025/Kalenderwoche 45.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
