@@ -11,10 +11,14 @@
             "id": "0134a828b772be19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026/Kalenderwoche 9.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kalenderwoche 9"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061aabc6787c55e4",
+  "active": "0134a828b772be19",
   "lastOpenFiles": [
     "assets/Audioplayer Module Custom Audioplayer.png",
     "assets/Pasted image 20260213161725.png",
