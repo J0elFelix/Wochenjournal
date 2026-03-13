@@ -9,7 +9,12 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich kurz ins Nesa geschaut um zu schauen ob ich noch Test habe. Morgen habe ich einen ABU Test auf den ich mich schon ein bisschen vorbereitet habe aber ich möchte mir heute auch noch Zeit nehmen und noch ein bisschen dafür lernen. Dann habe ich meine Prüfungen noch im Kalender notiert damit ich direkt weiss wann die nächste Prüfung ist. Danach habe ich weiter am Module gearbeitet. Die Progress bar funktioniert nun endlich wie ich es will. Jedoch musste ich wider im Internet suchen gehen. Das Responsive war dann nicht so eine grosse Sache. Danach habe ich es mit Joel angeschaut und er hat gemeint das es so super ist. Nun muss ich noch eine Lit Komponente daraus machen da ich nun JavaScript verwende. Ich habe das noch nie gemacht und ich muss mich noch mit typescript auseinandersetzten. Da es noch andere Lit Komponenten gibt konnte ich mich anhand diesen orientieren und das Razor Template hatte ich ziemlich schnell da ich es eigentlich so oder so schon hatte und dann nur noch die Vorlage übernehmen musste. Die CSS Files konnte ich so lassen wie sie waren aber ich muss dort noch schauen weil einige Dinge einfach gar nicht übernommen werden. Ausserdem musste ich nur die Breite anpassen beim Play Button damit das ganze nicht immer nach rechts rutscht wenn man draufdrückt.
+
+##### Fertiges Audioplayer Module:
+![[Pasted image 20260224084841.png]]
+##### Fertiges Audioplayer Module Mobile:
+![[Pasted image 20260224084903.png]]
 
 ---
 ## Mittwoch:
@@ -24,6 +29,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Krank
 
 ---
