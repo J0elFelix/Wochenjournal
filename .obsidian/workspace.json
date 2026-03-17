@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96046615070ff0ca",
+        "id": "18a85fe175170471",
         "type": "tabs",
         "children": [
           {
-            "id": "866069891eddd44b",
+            "id": "d1cd90ca1180b31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2026/Kalenderwoche 12.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "866069891eddd44b",
+  "active": "d1cd90ca1180b31b",
   "lastOpenFiles": [
+    "2026/Kalenderwoche 12.md",
+    "assets/Pasted image 20260317103333.png",
     "assets/Pasted image 20260316172731.png",
     "README.md",
-    "2026/Kalenderwoche 12.md",
     "2026/Kalenderwoche 11.md",
     "2026/Kalenderwoche 10.md",
     "2026/Kalenderwoche 9.md",
@@ -209,8 +210,6 @@
     "assets/web-components-toolbox-joel-felix.png",
     "2028",
     "2027",
-    "assets/Farben für Öffnungszeiten.png",
-    "assets/Pasted image 20260112162148.png",
     "test.md",
     "2025/Kalenderwoche 32.md",
     "2026",

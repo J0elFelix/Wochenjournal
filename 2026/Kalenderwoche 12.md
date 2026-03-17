@@ -7,7 +7,10 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am morgen habe ich noch die Radio Buttons zum laufen gebracht. Nun kann man die Farbe von den Zahlen mit den Radio Buttons ändern. Danach war das Daily und ich habe kurz gesagt wo ich momentan stehe. Danach habe ich begonnen das ganze Responsive zu stylen. Dies hat sehr gut funktioniert. Nur beim Mobile style wolle es nicht funktionieren. Dort muss ich nochmal schauen. Und wenn das gemacht ist muss ich noch prüfen wie es aussieht wenn nur 2 Zahlen gepflegt wurden.  Ich habe es überprüft und bei 2 spalten sieht es gut aus. Das Responsive ist auch fertig und ich musste noch einige Dinge im Code löschen oder umschreiben. Ich erstelle dann noch einen Pull Request und mache noch ein Code Review. Somit bin ich dann fertig mit der Key Figures Komponente. Davor hatte ich noch das Weekly mit Joel. 
+
+![[Pasted image 20260317103333.png]]
+##### (Key Figures Module)
 ---
 ## Mittwoch:
 
