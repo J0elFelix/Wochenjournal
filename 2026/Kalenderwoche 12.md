@@ -24,5 +24,9 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich das Key Figures Module noch geprüft und es hatte keine Fehler. Da ich noch kein neues Ticket habe, habe ich begonnen für die Modul Prüfung nächste Woche zu lernen. Um 09:00 Uhr hatte ich dann das Daily. Dort habe ich Oli gerade gefragt ob ich ein neues Ticket bekommen könnte da ich nichts mehr zu tun habe. Nach dem Daily habe ich an meinem Semesterbericht weitergeschrieben und um 11:00 Uhr hatte ich dann das Code Review mit Dino. Danach konnte ich dann das Kennzahlen Module abschliessen und nach dem Mittag das neue Module beginnen. 
 ---
+
+
+
+
