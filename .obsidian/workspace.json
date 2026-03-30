@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75622aed11af758b",
+        "id": "2d3cd9d04aa24c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "46cd130231815cc9",
+            "id": "1332e49ed09f1a24",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2026/Kalenderwoche 12.md",
-                "bFile": "2026/Kalenderwoche 12.md",
-                "aRef": ""
+                "file": "2026/Kalenderwoche 14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Kalenderwoche 12"
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 14"
             }
           }
         ]
@@ -180,14 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46cd130231815cc9",
+  "active": "1332e49ed09f1a24",
   "lastOpenFiles": [
+    "2026/Kalenderwoche 13.md",
+    "2026/Kalenderwoche 14.md",
     "README.md",
     "2026/Kalenderwoche 1.md",
-    "2026/Kalenderwoche 14.md",
     "2026/Kalenderwoche 11.md",
     "2026/Kalenderwoche 12.md",
-    "2026/Kalenderwoche 13.md",
     "assets/Pasted image 20260327165746.png",
     "assets/Pasted image 20260327150504.png",
     "assets/Pasted image 20260327150445.png",
