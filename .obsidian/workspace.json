@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3cd9d04aa24c5f",
+        "id": "f4e89c5f26c5fdd0",
         "type": "tabs",
         "children": [
           {
-            "id": "1332e49ed09f1a24",
+            "id": "e9e44b937bc2f8d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1332e49ed09f1a24",
+  "active": "e9e44b937bc2f8d1",
   "lastOpenFiles": [
     "2026/Kalenderwoche 13.md",
     "2026/Kalenderwoche 14.md",
