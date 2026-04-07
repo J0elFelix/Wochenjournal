@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026/Kalenderwoche 6.md",
+                "file": "2026/Kalenderwoche 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kalenderwoche 6"
+              "title": "Ausgehende Links von Kalenderwoche 15 öffnen"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026/Kalenderwoche 6.md",
+                "file": "2026/Kalenderwoche 15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kalenderwoche 6"
+              "title": "Gliederung von Kalenderwoche 15"
             }
           },
           {
@@ -180,25 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e44b937bc2f8d1",
+  "active": "061aabc6787c55e4",
   "lastOpenFiles": [
-    "assets/Pasted image 20260407103721.png",
-    "README.md",
-    "2026/Kalenderwoche 15.md",
     "2026/Kalenderwoche 14.md",
     "2026/Kalenderwoche 13.md",
-    "2026/Kalenderwoche 1.md",
-    "2026/Kalenderwoche 11.md",
     "2026/Kalenderwoche 12.md",
+    "2026/Kalenderwoche 11.md",
+    "2026/Kalenderwoche 10.md",
+    "2026/Kalenderwoche 9.md",
+    "2026/Kalenderwoche 8.md",
+    "2026/Kalenderwoche 7.md",
+    "2026/Kalenderwoche 6.md",
+    "2026/Kalenderwoche 15.md",
+    "assets/Pasted image 20260407103721.png",
+    "README.md",
+    "2026/Kalenderwoche 1.md",
     "assets/Pasted image 20260327165746.png",
     "assets/Pasted image 20260327150504.png",
     "assets/Pasted image 20260327150445.png",
     "assets/Pasted image 20260324141833.png",
-    "2026/Kalenderwoche 7.md",
-    "2026/Kalenderwoche 10.md",
-    "2026/Kalenderwoche 9.md",
-    "2026/Kalenderwoche 8.md",
-    "2026/Kalenderwoche 6.md",
     "2026/Kalenderwoche 5.md",
     "2026/Kalenderwoche 4.md",
     "2026/Kalenderwoche 3.md",
@@ -208,7 +208,6 @@
     "assets/Pasted image 20260316172731.png",
     "assets/Pasted image 20260313143253.png",
     "assets/Pasted image 20260224084903.png",
-    "assets/Pasted image 20260224084841.png",
     "Test.md",
     "2028/Kalenderwoche 1.md",
     "2027/Kalenderwoche 1.md",
