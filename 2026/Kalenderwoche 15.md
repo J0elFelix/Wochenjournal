@@ -18,7 +18,9 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am morgen habe ich noch die letzte Änderung beim Video Module comittet. Danach habe ich in den Branch vom Carousel Slider gewechselt. Ich habe noch gemerkt dass mir beim Style noch einiges fehlt. Da ich ein Beispiel auf der aktuellen Seite gefunden habe konnte ich dort einen grossen Teil abschauen und somit das Design korrigieren.  Es hat auch alles sehr gut funktioniert ausser das Mobile Format. Ich musste dort sehr viele Dinge anpassen. Dann ist mir aufgefallen dass wenn ich denn Button weglasse das ganze Design zusammenfällt. Daraufhin musste ich jedem Element im Slider einen Fixen Platz geben damit wenn ein Element nicht erfasst wird das ganze nicht zusammenfällt. Jetzt muss ich noch der Image Caption einen fix platz geben. Auf Desktop und grösser sieht nun alles so aus wie es eigentlich aussehen sollte. Auf der Tablet und Mobile Ansicht ist es noch nicht korrekt. Sobald ich dort die letzten Anpassungen gemacht habe kann ich die Komponente hoffentlich final abschliessen. 
+
+![[Pasted image 20260409164501.png]]
 
 ---
 ## Freitag
