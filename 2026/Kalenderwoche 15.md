@@ -25,5 +25,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Heute habe ich bis am Nachmittag das Responsive Design für das Carousel gemacht. Am Vormittag habe ich es endlich geschaft dass es auf allen Formaten normal aussieht und bis am Nachmittag habe ich es dann auf die Verschiedenen Formate angepasst. Es war brutal mühsam aber am Ende habe ich es doch noch geschaft. Ich habe dann nochmal alles kurz getestet um zu sehen ob es auch wirklich funktioniert oder ob wegen etwas das ganze wider nicht geht aber es hat alles gepasst. Mir ist dann aber aufgefallen dass das Karussell auf der Homepage die gleichen Werte beim Slider benutzt wie meines. Deshalb sind die Bullets auf der Homepage ganz anders als sie sein müssten und bei mir sehen sie normal aus. Dass muss ich dann am Montag mit Dino noch anschauen. Ich habe mir dann nochmal das Video Module angeschaut und dies sieht auch gut aus. Danach habe ich mir noch die Schnupperunterlagen durchgeschaut da ich mit Williams am Montag den Schnuppertag Ablauf durchgehen. 
 ---
