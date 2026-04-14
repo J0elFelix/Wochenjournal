@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen hat mir Dino noch geschrieben, dass bei ihm die Bilder nicht laden und andere Dinge nicht ganz korrekt sind. Ich habe dann in den Dev Branch gewechselt und im Umbraco Ordner alles gelöscht und dies Settings und Content importiert. Danach hat bei mir alles geladen. Wir schauen dann dies nach dem Daily noch gemeinsam an. Wir haben es dann zusammen angeschaut und es hat sich alles geklärt. Danach habe ich noch das Video Module abgeschlossen und einen PR erstellt. Das Review werde ich am Freitag mit Dino machen. Dann habe ich die HTML Aufgabe für das Schnuppern noch vorbereitet und dann noch bis zum Schluss den Audioplayer gefixed. Dort bin ich nun eigentlich auch fertig und dies werde ich dann auch am Freitag mit Dino anschauen.
 ---
 ## Mittwoch:
 
