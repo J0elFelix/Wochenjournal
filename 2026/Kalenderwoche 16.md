@@ -8,15 +8,15 @@
 ---
 ## Mittwoch:
 
-##### Frei
+##### Frei (Europapark)
 
 ---
 ## Donnerstag:
 
-##### Frei
+##### Frei (Europapark)
 
 ---
 ## Freitag
 
-##### Text
----
+##### Am Morgen habe ich beim Video Module die letzte Änderung (hoffentlich) vorgenommen. Wenn kein Preview Image gesetzt ist wird der Playbutton auch nicht angezeigt. Dies funktioniert jedoch sind im PR noch zwei Fehler. Diese sind jedoch üblich und dies werde ich noch mit Dino anschauen. Im Daily hat Lea noch mitgeteilt das sie noch ein Ticket erstellt hat für alle möglichen Anpassungen. Mich betrifft dort nur das beim Audioplayer an zwei Stellen der Text auf deutsch statt English ist. Da ich ein Ticket habe wo ich den Abstand noch anpassen muss kann ich es gleich dort auch Ändern. Dieses Ticket schaue ich dann auch im Termin mit Dino noch an, weil ich damit auch schon fertig bin. Wir haben im Termin noch einige Dinge angeschaut und danach konnte ich dann nach dem Mittag das Video Module mergen. Danach habe ich alles kurz geprüft und nachdem alles korrekt war den Audioplayer Bug gefixed. Diesen habe ich dann auch gemerged. Es hat sich dann aber herausgestellt das beim Video Module noch etwas fehlt. Da dünu auch gerade gemerged hat nach mir und dort was beim Video Module gefehlt hat schauen sie nun nach wo der Fehler ist und danach sollte alles reibungslos laufen. Anschliessend hat es dann funktioniert. 
+ ---
