@@ -18,5 +18,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich noch für die Prüfung nächste Woche gelernt und im Daily musste ich nichts mitteilen, weil ich in diesem Sprint kein Ticket habe. Danach habe ich die Namensschilder für die Schnuppernden nächste Woche ausgedruckt und danach mit dem refactor vom Carousel begonnen. Ich habe dann den ganzen restlichen Tag damit verbracht mit dem Carousel. Ich komme aber gut voran und denke das ich dann am Montag fertig werde. 
  ---
