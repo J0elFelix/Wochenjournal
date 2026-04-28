@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen haben wir noch die E-Mail verschickt mit der HTML-Aufgabe und haben und noch abgesprochen wer was bei der Präsentation erzählt. Ich habe auch noch die Namensschilder ausgeschnitten die ich zuvor noch ausgedruckt habe. Wir sind dann noch kurz die PowerPoint durchgegangen wer was erzählt und dann hat Joel die Schnuppernden abgeholt. Wir haben dann Präsentiert und haben danach mit der HTML Aufgabe begonnen. Am Mittag haben wir gemeinsam gegessen und danach waren die Einblicke in die Arbeitsplätze. Währenddessen habe ich für die noSQL Prüfung gelernt. Danach konnten sie mit der HTML Aufgabe weitermachen und ich habe ihnen dann noch mitgeteilt das sie das ganze auch noch Präsentieren müssen. Danach haben wir uns kurz abgesprochen wegen einer Bewertung. Danach war auch schon die Präsentation und zum Schluss noch das Kahoot. 
 ---
 ## Mittwoch:
 
