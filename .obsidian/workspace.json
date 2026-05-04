@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Kalenderwoche 18.md",
-                "mode": "preview",
+                "file": "2026/Kalenderwoche 19.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalenderwoche 18"
+              "title": "Kalenderwoche 19"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "07a9928894cda129",
   "lastOpenFiles": [
-    "README.md",
-    "2026/Kalenderwoche 19.md",
     "2026/Kalenderwoche 18.md",
+    "2026/Kalenderwoche 19.md",
+    "README.md",
     "2026/Kalenderwoche 17.md",
     "2026/Kalenderwoche 12.md",
     "2026/Kalenderwoche 11.md",
