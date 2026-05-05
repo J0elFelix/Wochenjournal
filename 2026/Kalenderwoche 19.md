@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am morgen habe ich alle Tickets die ich mir rausgesucht habe genau durchgelesen und zu jedem einen Lösungsansatz geschrieben. Dies hat ohne Probleme funktioniert. Zum Teil habe ich es auch direkt getestet wenn einen kleinen Teil Code geschrieben werden musste. Im Daily werde ich dann nach dem naming von den Tasks fragen und danach damit weitermachen.  Ich konnte dann den fix für die Key Figures in den Dev mergen und habe danach begonnen mit dem Fix von dem Richtext. Dort musste ich für den a tag einen neuen Style schreiben. Dies hatte ich sehr schnell fertig und habe es dann Dino als Review gegeben. Er hat dann gemeint das ich dafür lieber Lea frage und sie hat gemeint das ich den Style in das Richtext File schreiben soll und einen Hover hinzufügen sollte mit den MDX Variablen. Danach konnte ich es dann auch Mergen. Ich habe währenddessen für die nächsten 4 Tickets schon eine Lösung gesucht und auch gefunden. Das heisst das ich nur noch den Branch erstellen und es umsetzten muss. Am Nachmittag hatte ich dann denn Refactor Termin. Wir konnten den Fehler finden und ich habe nach dem Termin versucht das ganze noch zu Beheben nun wo wir wissen wo der Fehler sich befindet. Ich habe dies jedoch noch nicht hingebracht und werde damit am Freitag weitermachen und hoffentlich auch fertig werden. 
 ---
 ## Mittwoch:
 

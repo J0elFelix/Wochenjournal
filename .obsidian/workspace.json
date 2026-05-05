@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2026/Kalenderwoche 19.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07a9928894cda129",
+  "active": "061aabc6787c55e4",
   "lastOpenFiles": [
     "2026/Kalenderwoche 18.md",
     "2026/Kalenderwoche 19.md",
