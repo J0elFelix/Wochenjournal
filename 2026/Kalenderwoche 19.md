@@ -18,5 +18,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen hatte ich das Daily und dort haben wir nicht gross etwas besprochen. Ich habe dann den ganzen Morgen mit dem Carousel gearbeitet. Ich konnte alles fixen ausser dass das Carousel unter 630px nicht mehr Responsive ist wenn es mehr als 3 Slides beinhaltet. Wie ich diesen Fehler behebe habe ich keine Ahnung. Ich habe dann damit Pause gemacht und mich mit dem Titel Task beschäftigt und am Nachmittag habe ich noch weiter probiert. 
 ---
