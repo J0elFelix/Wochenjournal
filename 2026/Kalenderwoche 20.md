@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich vom Ticket noch PR erstellt und dies wurde dann auf Dev Deployed. Im Daily habe ich kurz meinen Stand gesagt und im Afterdaily  mit Joel und Lea noch die Content-Width Variable angeschaut. Danach habe ich mit Joel die Mathe Aufgaben angeschaut und nun funktioniert es schon viel besser und ich weiss wie ich an die Aufgaben herangehen muss. Danach hat mir Joel noch 2 weitere Tickets gegeben. Das eine ist gar nicht möglich und das andere lässt sich lösen aber ich muss noch klarer nachfragen. Am Nachmittag konnte ich das Carousel noch abschliessen. Ich habe nun noch 2 Tasks die ich erledigen muss und dann kann ich beim aktuellen Sprint weitermachen. Das eine Ticket habe ich schon fast fertig und denke das ich auch heute fertig werde und beim nächsten Ticket werde ich sicher bis am Freitag fertig. 
 ---
 ## Mittwoch:
 
