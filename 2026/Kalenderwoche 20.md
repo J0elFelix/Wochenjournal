@@ -18,5 +18,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich mit dem Google Maps Module begonnen. Im Daily habe ich kurz meinen Stand geschildert und dann am Module weitergearbeitet. Am Nachmittag habe ich dann mit dem Semesterbericht weitergemacht bis zu meinem aktuellen Stand. Beim Google Maps Module habe ich die Backoffice Konfiguration fertig und beim Backend begonnen. Dort muss ich am Montag im Daily noch eine Frage bezüglich dem API Key stellen.
 ---
