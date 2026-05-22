@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Kalenderwoche 21.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalenderwoche 21"
+              "title": "README"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d5ba63fe41ef382",
+  "active": "061aabc6787c55e4",
   "lastOpenFiles": [
-    "README.md",
+    "2026/Kalenderwoche 22.md",
     "2026/Kalenderwoche 21.md",
+    "README.md",
     "2026/Kalenderwoche 20.md",
     "2026/Kalenderwoche 19.md",
     "2026/Kalenderwoche 18.md",
@@ -219,7 +220,6 @@
     "2027/Kalenderwoche 1.md",
     "2028",
     "2027",
-    "test.md",
     "2026",
     "2025",
     "Untitled.base",
