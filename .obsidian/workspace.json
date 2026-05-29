@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Kalenderwoche 22.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalenderwoche 22"
+              "title": "README"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "7d5ba63fe41ef382",
   "lastOpenFiles": [
-    "README.md",
+    "2026/Kalenderwoche 23.md",
     "2026/Kalenderwoche 22.md",
+    "README.md",
     "2026/Kalenderwoche 21.md",
     "2026/Kalenderwoche 20.md",
     "2026/Kalenderwoche 19.md",
@@ -217,7 +218,6 @@
     "assets/Pasted image 20260317103333.png",
     "Test.md",
     "2028/Kalenderwoche 1.md",
-    "2027/Kalenderwoche 1.md",
     "2028",
     "2027",
     "2026",
