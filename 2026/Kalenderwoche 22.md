@@ -18,5 +18,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich an der Öffnungszeiten Komponente gearbeitet und im Daily sind wir noch die Bugs vom aktuellen Sprint durchgegangen. Ich habe dann 2 davon übernommen. Das erste konnte ich vor dem Mittag auch schon beheben. Die Arrows beim Carousel haben nicht richtig funktioniert. Ich musste die Dokumentation von Swiper durchlesen und dann konnte ich es damit schon lösen. Danach habe ich Oli noch gefragt mit welcher Lösungsversion ich denn Bug abgeben muss. Danach habe ich mit dem nächsten Bug begonnen. Das erste davon habe ich auch schon gelöst. Ich habe den Secondary Button zu einem Primary Button gemacht. Eine Anforderung habe ich mit dem anderen Bug Ticket auch schon abgeschlossen. Am Nachmittag habe ich dann am Bugfix Ticket weitergearbeitet. Dort bin ich ungefähr in der Hälfte. Ich habe dann noch am Projekt für die Schule gearbeitet und dort die Grundstruktur vom Projekt erstellt. Nun können wir dann beginnen mit dem eigentlichen Teil vom Projekt. 
 ---
