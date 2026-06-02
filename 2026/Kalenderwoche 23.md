@@ -4,11 +4,11 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen wollte ich noch den Carousel Bug fertigstellen. Jedoch habe ich nicht herausgefunden woran es liegen könnte. Ich werde dann am Freitag Joel diesbezüglich Fragen. Nach dem Daily hat mir Joel noch den funktionierenden API-Key gegeben. Nun wird die Karte auch angezeigt aber aus irgendeinem Grund kommt das Dropdown nicht wenn man etwas sucht. Da ich den ganzen Code schon hatte konnte ich diesen einfach Kopieren und dann die Ticketspezifischen Anforderungen noch dazunehmen. Beim Styling brauchte ich nur denn Titel zu einem H2 zu machen und der untere Abstand ein bisschen zu vergrössern und mehr musste nicht getan werden. Ich habe dann Oli noch geschrieben bezüglich denn Map Settings. Was noch zusätzlich neben der default Anzeige anzeigen soll. 
 ---
 ## Mittwoch:
 
-##### Schule
+##### Schule (Mathe & Englisch Prüfung)
 
 ---
 ## Donnerstag:
