@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85ea2b3f1b6854ee",
+        "id": "3c6c22d64ff6f9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5ba63fe41ef382",
+            "id": "19a0ab673c417fbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026/Kalenderwoche 23.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kalenderwoche 23"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -180,9 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d5ba63fe41ef382",
+  "active": "19a0ab673c417fbd",
   "lastOpenFiles": [
     "README.md",
+    "2026/Kalenderwoche 24.md",
     "2026/Kalenderwoche 23.md",
     "2026/Kalenderwoche 22.md",
     "2026/Kalenderwoche 21.md",
@@ -217,7 +214,6 @@
     "assets/Pasted image 20260317151004.png",
     "assets/Pasted image 20260317103333.png",
     "Test.md",
-    "2028/Kalenderwoche 1.md",
     "2028",
     "2027",
     "2026",
