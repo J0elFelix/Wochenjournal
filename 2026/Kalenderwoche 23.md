@@ -18,5 +18,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich an dem Bugfix Ticket weitergearbeitet. Im Daily habe ich noch wegen dem Google Maps gefragt und das passt so. Daraufhin habe ich die Komponente auf Dev gemerged und somit ist die Komponente abgeschlossen. Danach habe ich weiter am Bug gearbeitet. Ich habe auch endlich denn letzten Fehler behoben. Danach habe ich ordentlich getestet und dies hat gut ausgesehen. Danach habe ich die neusten Änderungen noch comittet und einen Termin mit Joel für den Montag erstellt damit wir denn PR anschauen können und hoffentlich auf Mergen. Somit habe ich nichts neues zu tun. Ich habe mir noch die Bug Tickets durchgeschaut aber nichts gefunden das ich machen könnte. Es gibt aber auch aktuell kaum Bug Tickets. Ich habe dann noch die restliche Zeit für das Projekt in der Schule investiert. 
 ---
