@@ -18,5 +18,5 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich mit der Öffnungszeiten Komponente beim Backend weitergearbeitet. Im Daily habe ich meinen Stand erzählt und wenn ich mit der Öffnungszeiten Komponente fertig bin oder dazwischen kann ich noch schauen ob es noch Bugs gibt und bei Gelegenheit beheben. Danach habe ich das Backend fertiggestellt und das Frontend gemacht. Am Nachmittag konnte ich das Backend noch kürzen und habe das Frontend fertiggestellt. Soweit wäre ich nun fertig mit der Öffnungszeiten Komponente. Am Montag ist Joel auch wieder da und dann kann ich ihn fragen was er davon hält und dann habe ich auch noch das Review mit Dino. Den Rest der Zeit habe ich noch am Schulprojekt gearbeitet. 
 ---
