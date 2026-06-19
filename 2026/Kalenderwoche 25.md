@@ -21,4 +21,5 @@
 ## Freitag
 
 ##### Am Morgen habe ich an der Öffnungszeiten Komponente weitergearbeitet. Williams hat mir ein Beispiel erstellt anhand meiner Komponente damit ich die View in eine globale Klasse schreiben kann die ich dann im Header verwenden kann. Ich konnte die Logik 1:1 übernehmen und im Header verlinken. Danach habe ich noch den Bug behoben denn Williams gefunden hat. Im Daily haben wir nur kleine Organisatorische Dinge besprochen und nächste Woche werde ich in einem After Daily noch eine Demo machen wo ich die IFrame Komponente präsentiere. Nach dem Daily habe ich noch mit Joel Telefoniert um abzusprechen was ich noch alles machen kann. Danach habe ich die Öffnungszeiten Komponente abgeschlossen und habe einen PR erstellt. Danach wollte ich noch testen ob nun alles funktioniert. Jedoch startet die App nicht mehr. Ich habe dann Williams geschrieben ob ich noch etwas anpassen muss. In der Zwischenzeit habe ich das Lernjournal aktualisiert und geschaut was im Schulprojekt noch gemacht werden muss.
+
 ---
