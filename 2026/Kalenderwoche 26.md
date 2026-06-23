@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich am Workaround gearbeitet um denn Bug zu fixen dass wenn man nur die Koordinaten eingibt und denn Marker nicht bewegt das keine Map geladen wird. Ich habe es mit Joel angeschaut und wir sind auf den Entschluss gekommen das Package zu entfernen. Nun baue ich im Umbraco ein Textfeld das der Autor nur denn genauen Ort reinkopieren muss und im Hintergrund sucht es sich die ID und denn Standort. Somit wird dann auf der Karte der Standort und die Karte oben Links dargestellt. Ich habe am Nachmittag damit begonnen. Nun muss ich das Frontend noch schreiben dazu. Wenn es gut funktioniert überlege ich mir ob ich statt eine Text box ein Dropdown hinzufüge dass der Autor ein Buchstabe schreiben kann und dann Vorschläge kommen. Jedoch muss ich zuerst schauen dass die Karte geladen wird. 
 ---
 ## Mittwoch:
 
