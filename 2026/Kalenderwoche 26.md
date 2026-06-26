@@ -18,6 +18,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich mit der Google Maps Komponente weitergearbeitet. Die Map ladet nun und wird auch korrekt angezeigt. Der Style vom Titel wird nicht geladen. Dies musste ich noch ändern und dann war ich eigentlich auch schon fertig. Ich musste noch denn API-Key aus denn appsettings entfernen. Ich habe dafür Aldo gefragt wie ich ein Secret dafür erstellen kann. Er hat das gemacht und mir gezeigt wie das funktioniert. Danach konnte ich die Secrets einfügen. Jedoch ist dann die App nicht mehr gestartet. Ich musste die Secrets neu einfügen und dann hat es funktioniert. Ich habe dann das Error Handling noch hinzugefügt für die Google Maps Komponente. Danach habe ich nachgeschaut wie ich einen eigenen Property Editor bauen kann um ein Autocomplete Dropdown zu erstellen. 
 
 ---
