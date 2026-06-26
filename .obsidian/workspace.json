@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Kalenderwoche 26.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalenderwoche 26"
+              "title": "README"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061aabc6787c55e4",
+  "active": "8f0af2d373c77581",
   "lastOpenFiles": [
-    "README.md",
-    "2026/Kalenderwoche 26.md",
+    "2026/Kalenderwoche 27.md",
     "2026/Kalenderwoche 25.md",
+    "2026/Kalenderwoche 26.md",
+    "README.md",
     "2027/Kalenderwoche 1.md",
     "2026/Kalenderwoche 24.md",
     "Unbenannt.md",
@@ -215,7 +216,6 @@
     "assets/Pasted image 20260327150504.png",
     "assets/Pasted image 20260327150445.png",
     "assets/Pasted image 20260324141833.png",
-    "2026/Kalenderwoche 5.md",
     "assets/Pasted image 20260317151004.png",
     "assets/Pasted image 20260317103333.png",
     "2028",
