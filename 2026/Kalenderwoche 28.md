@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Heute hatte ich denn Schnuppertag in Zürich. Am morgen im Zug habe ich meinen Semesterbericht fertiggestellt und als ich in Zürich war konnte ich mich zuerst mal einrichten. Alice hat mir dann kurz gezeigt an welchem Ticket ich arbeiten kann und wir uns die zusammen angeschaut. Danach war das Team-Meeting von ihnen. Ich habe mich dort dazugesetzt und zugehört. Danach habe ich mich kurz vorgestellt und wir haben ein kleines Spiel zusammen gespielt. Anschliessend war ich beim Daily dabei und es lief genau so ab wie beim Daily im Engagement. Danach habe ich an der Form weitergearbeitet und nach dem Mittag war ich damit Fertig. Danach habe ich ein neues Ticket bekommen das auch mit einer Form zu tun hat. Diesmal sendet es jedoch eine Email an denn Veranstalter und an denn der das Formular ausgefüllt hat. Dies habe ich kurz bevor ich gegangen bin fertiggestellt. Im Zug habe ich dann die letzten Kommentare noch geschrieben und mein Arbeitsjournal fertig geschrieben.
 
 ---
 ## Donnerstag:
