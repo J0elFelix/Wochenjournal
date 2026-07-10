@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "58a31413d5b94151",
+        "id": "17dcfdd73375e7e6",
         "type": "tabs",
         "children": [
           {
-            "id": "8f0af2d373c77581",
+            "id": "fa3182d1f646d027",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026/Kalenderwoche 28.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kalenderwoche 28"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -180,10 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0af2d373c77581",
+  "active": "fa3182d1f646d027",
   "lastOpenFiles": [
     "README.md",
     "2026/Kalenderwoche 28.md",
+    "2026/Kalenderwoche 29.md",
+    "2026/Kalenderwoche 33.md",
+    "2026/Kalenderwoche 32.md",
+    "2026/Kalenderwoche 31.md",
+    "2026/Kalenderwoche 30.md",
     "2026/Kalenderwoche 27.md",
     "2026/Kalenderwoche 25.md",
     "2026/Kalenderwoche 26.md",
@@ -206,11 +207,6 @@
     "assets/Pasted image 20260409164501.png",
     "assets/Pasted image 20260408133627.png",
     "assets/Pasted image 20260407163940.png",
-    "2026/Kalenderwoche 10.md",
-    "2026/Kalenderwoche 9.md",
-    "2026/Kalenderwoche 8.md",
-    "2026/Kalenderwoche 7.md",
-    "2026/Kalenderwoche 6.md",
     "assets/Pasted image 20260407103721.png",
     "assets/Pasted image 20260327165746.png",
     "assets/Pasted image 20260327150504.png",

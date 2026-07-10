@@ -1,7 +1,7 @@
 ## Wochenjournal
 
-##### - [[Kalenderwoche 32]]
-##### - [[Kalenderwoche 33]]
+##### - [[2025/Kalenderwoche 32]]
+##### - [[2025/Kalenderwoche 33]]
 ##### - [[Kalenderwoche 34]]
 ##### - [[Kalenderwoche 35]]
 ##### - [[Kalenderwoche 36]]
@@ -49,3 +49,8 @@
 ##### - [[Kalenderwoche 26]]
 ##### - [[Kalenderwoche 27]]
 ##### - [[Kalenderwoche 28]]
+##### - [[Kalenderwoche 29]]
+##### - [[Kalenderwoche 30]]
+##### - [[Kalenderwoche 31]]
+##### - [[2026/Kalenderwoche 32|Kalenderwoche 32]]
+##### - [[2026/Kalenderwoche 33|Kalenderwoche 33]]
