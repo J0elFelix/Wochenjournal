@@ -11,10 +11,14 @@
             "id": "fa3182d1f646d027",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026/Kalenderwoche 25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Kalenderwoche 25"
             }
           }
         ]

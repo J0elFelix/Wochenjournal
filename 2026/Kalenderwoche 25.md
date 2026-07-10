@@ -1,10 +1,12 @@
 ## Montag:
 
 ##### Am Morgen habe ich an der Öffnungszeiten Komponente gearbeitet und nach dem Daily hatte ich den Termin mit Dino. Ich habe ihm das Carousel gezeigt und er meinte das ich zu jedem Case ein Beispiel erfassen soll. So kann ich ihm das am Dienstag dann zeigen und wir schauen gemeinsam ob es so passt. Danach habe ich die Öffnungszeiten Komponente fertig gemacht und probiert es in den Header einzubinden. Dies habe ich nicht geschafft und habe mal Williams gefragt ob ich im neuen Repo schon einen Branch erstellen kann, weil die Komponente dort genutzt werden sollte. Daraufhin habe ich einen Branch erstellt und im Backoffice die Komposition erstellt.
+
 ---
 ## Dienstag:
 
 ##### Am Morgen habe ich mit der Komponente weitergemacht. Im Backoffice musste ich nur kurz etwas ändern und dann war ich damit fertig. Danach musste ich nur die Files erstellen und denn Inhalt vom Change-Migros Repo rüber kopieren. Dort habe ich die Komponente getestet. Ich habe mir dann denn Header genauer angeschaut und konnte ihn so ergänzen das ich die Komponente im Header anzeigen kann. Somit bin ich mit der Öffnungszeiten Komponente fertig. Danach habe ich nochmal kurz überprüft ob alles korrekt funktioniert und dann noch was für die Schule gemacht und nebenbei die Test Carousels erstellt damit ich diese mit Dino dann anschauen kann. Ich habe mit Dino einen Call gemacht und wir  haben es kurz angeschaut und es hat gepasst. Ich habe es dann gemerged und noch einige Kommentare geschrieben. Das Ticket habe ich auch geschlossen und auf Engagement habe ich nun nichts mehr für denn Moment. 
+
 ---
 ## Mittwoch:
 
