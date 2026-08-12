@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Am Morgen habe ich beim Projekt weitergearbeitet und gemerkt das mit dem Electron doch nichts wird. Ich habe mich dann entschieden eine Web App zu bauen. Ich hatte danach das Daily wo nichts neues dazugekommen ist. Danach habe ich die Apis herausgesucht. Beim Kalender und ÖV hatte ich es schnell gefunden. Bei den News bin ich mir noch unschlüssig und beim Menuplan bin ich verwirrt. Ich habe dann begonnen die APIs zu implementieren. Zuerst gebe ich sie in der Console aus um zu schauen ob es auch funktioniert. Ich habe mit dem Newsletter begonnen und dies hatte ich anhand einer Dokumentation sehr schnell fertig. Die  ÖV Verbindungen konnte ich genau gleich schreiben ausser die URL. Die URL musste ich zuerst ein bisschen testen damit ich auch die richtige Ausgabe bekomme. Danach habe ich die API für den Outlook Kalender implementiert. Dies war mit Abstand am schwierigsten und ich musste ein bisschen KI zur Hilfe nehmen. Damit hat es dann auch funktioniert. Schlussendlich musste ich noch irgendwie denn Menuplan bekommen. Weil dieser Jede Woche ändert kann ich ihn nicht herunterladen und einfach so lassen. Ich habe dann ein Python Skript geschrieben mit welchem ich denn Link vom PDF Download öffnen kann und es mir diesen herunterlädt. Um dies zu Automatisieren habe ich eine .bat Datei angelegt die wenn man diese Ausführt in das root Verzeichnis geht und dort das Python File ausführt. Danach wird das PDF File vom root Verzeichnis in denn Files Ordner kopiert und anschliessend wird das PDF aus dem root Verzeichnis gelöscht. Somit funktionieren alle 4 Dinge. Ich muss es nur noch in der Web App anzeigen lassen und ein bisschen schön aussehen lassen.
 
 ---
 ## Donnerstag:
