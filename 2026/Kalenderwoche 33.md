@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich mit dem Setup vom Repo weitergemacht und es hat nicht funktioniert weil ich im Docker Desktop WSL nicht eingestellt hatte und im Terminal nicht LF benutzt habe. Danach hat es einwandfrei funktioniert. Somit bin ich nun bereit für nächsten Dienstag. Ich habe dann mit dem kleinen Projekt begonnen. Ich habe mir überlegt was ich machen möchte und dann begonnen Informationen zu sammeln. Nach dem Daily habe ich ein neues Ticket bekommen das ich dann erledigt habe und am Nachmittag bin ich damit fertig geworden. Somit habe ich dann mit dem Projekt weitergemacht und ein paar Dinge ausprobiert. 
 ---
 ## Mittwoch:
 
