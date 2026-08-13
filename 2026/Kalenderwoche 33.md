@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich beim Engagement Ticket weitergearbeitet und vor dem Daily mit Dino einen Call gemacht. Es ist noch eine Frage aufgetaucht die ich im Daily gestellt habe und das hat sich dann auch geklärt. Ich habe dann noch 2 neue Tickets bekommen. Nach dem Daily konnte ich mein angefangenes Ticket abschliessen und nach dem Mittag habe ich mit dem nächsten Ticket weitergemacht. Dort musste ich im CSP Manager noch die URL aktivieren und OLI hat es getestet und es hat dann funktioniert. Somit hatte ich dann nur noch 1 Ticket offen das ich dann begonnen habe. Als ich es fertig hatte habe ich mit Dino nochmal einen Call gemacht und es war mit dem Layout irgendetwas Komisch und der Konfiguration im Umbraco Backoffice. Ich habe dann daraufhin einen Termin mit Dino und Lea gemacht für nächsten Montag um das Layout anzuschauen und das klärt sich dann hoffentlich und bringt nicht noch mehr Verwirrung mit rein. Dann habe ich denn Semesterbericht für das 5. Semester begonnen zu schreiben mit denn Tickets die ich bis jetzt erledigt hatte. Danach hat mir Dino noch geschrieben das mein offener PR gemerged wurde. Ich wusste nichts davon, weil wir das dann am Montag im Termin anschauen wollten.
 
 ---
 ## Freitag
