@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich das Repo für denn Workshop kurz nochmal getestet, um sicherzustellen dass es dann auch 100% funktioniert. Danach habe ich noch das Zugticket gespeichert damit ich es dann im nächsten Monat über die Spesen abrechnen kann. In Zürich hatte ich dann Denn Workshop bis zum Mittag. Es war sehr interessant wie schnell man mit KI sein kann. Nach dem Mittag habe ich in Zürich gearbeitet. Ich habe den ganzen Nachmittag damit verbracht denn Bug zu lösen. Einen Teil konnte ich schon beheben und dann habe ich gesehen das nochmal etwas nicht korrekt funktoniert. Daran bin ich nun dabei zu beheben. Beim nach hause fahren habe ich noch ein wenig Dokumentation geschrieben. 
 ---
 ## Mittwoch:
 
