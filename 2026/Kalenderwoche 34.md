@@ -4,11 +4,11 @@
 ---
 ## Dienstag:
 
-##### Am Morgen habe ich das Repo für denn Workshop kurz nochmal getestet, um sicherzustellen dass es dann auch 100% funktioniert. Danach habe ich noch das Zugticket gespeichert damit ich es dann im nächsten Monat über die Spesen abrechnen kann. In Zürich hatte ich dann Denn Workshop bis zum Mittag. Es war sehr interessant wie schnell man mit KI sein kann. Nach dem Mittag habe ich in Zürich gearbeitet. Ich habe den ganzen Nachmittag damit verbracht denn Bug zu lösen. Einen Teil konnte ich schon beheben und dann habe ich gesehen das nochmal etwas nicht korrekt funktoniert. Daran bin ich nun dabei zu beheben. Beim nach hause fahren habe ich noch ein wenig Dokumentation geschrieben. 
+##### Am Morgen habe ich das Repo für denn Workshop kurz nochmal getestet, um sicherzustellen dass es dann auch 100% funktioniert. Danach habe ich noch das Zugticket gespeichert damit ich es dann im nächsten Monat über die Spesen abrechnen kann. In Zürich hatte ich dann Denn Workshop bis zum Mittag. Es war sehr interessant wie schnell man mit KI sein kann. Nach dem Mittag habe ich in Zürich gearbeitet. Ich habe den ganzen Nachmittag damit verbracht denn Bug zu lösen. Einen Teil konnte ich schon beheben und dann habe ich gesehen das nochmal etwas nicht korrekt funktioniert. Daran bin ich nun dabei zu beheben. Beim nach hause fahren habe ich noch ein wenig Dokumentation geschrieben. 
 ---
 ## Mittwoch:
 
-##### Text
+##### Am Morgen habe ich mit Dino noch einen Call gemacht wegen dem Bug Ticket. Er meinte das ich am MDX-Button am besten nichts verändere. Deshalb habe ich die Änderungen bei mir Lokal in ein File gespeichert und denn Button so gelassen wie er ist. Danach habe ich denn Button ein bisschen nach unten geschoben. Somit ist es nun eigentlich fertig. Ich werde es am Nachmittag in Browserstack testen um zu sehen wie es sich auf IOS verhält. Danach war das Daily und habe mitgeteilt das ich mit dem Ticket gut fertig werde. Vor dem Mittag war dann noch ein Lifestream zu KI. Nach dem Mittag habe ich es mit Browserstack versucht jedoch hat es nicht funktioniert. Danach habe ich Williams gefragt ob er weiter weiss und wir haben dann viele Methoden versucht es zum laufen zu bringen aber nichts hat funktioniert. Wir haben dann auch noch Aldo gefragt und mit seiner Hilfe sind wir ein bisschen weitergekommen aber richtig funktioniert hat es dann auch nicht. Ich frage dann Morgen Joel und/oder Dino wegen dem damit ich es auch richtig testen kann. Die restliche Zeit habe ich dann noch Dokumentiert. 
 
 ---
 ## Donnerstag:
