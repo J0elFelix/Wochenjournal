@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich es nochmal mit Browserstack versucht aber es hat nicht funktioniert. Danach war das Daily wo es keine neuen Infos gegeben hat und danach habe ich kurz mit Oli Telefoniert wegen dem MDX Button. Es hat sich dann herausgestellt das ich diesen überschreiben kann. Da ich denn Code dafür noch gespeichert habe musste ich es nur noch einfügen und dann war ich auch schon fertig. Oli hat dann noch bemerkt das wenn man weg vom Overlay drückt dieses sich nicht schliesst. Ich habe das dann auch festgestellt und er hat im Ticket noch ergänzt damit dies auch noch funktionieren soll. Dafür musste ich nur die schon vorhandene Methode einem Klick Event bei der richtigen Klasse zuweisen. Somit schliesst sich das Overlay wenn man in denn grauen Bereich drückt. Somit bin ich nun fertig mit dem Bug und kann dies abschliessen. Ich werde mit Dino nochmal einen Call machen damit wir das final abschliessen können und dann werde ich wieder einmal an dem kleinen Projekt arbeiten.
 
 ---
 ## Freitag
