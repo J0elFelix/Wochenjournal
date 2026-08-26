@@ -3,7 +3,7 @@
 ##### - [[2025/Kalenderwoche 32]]
 ##### - [[2025/Kalenderwoche 33]]
 ##### - [[2025/Kalenderwoche 34]]
-##### - [[Kalenderwoche 35]]
+##### - [[2025/Kalenderwoche 35]]
 ##### - [[Kalenderwoche 36]]
 ##### - [[Kalenderwoche 37]]
 ##### - [[Kalenderwoche 38]]
@@ -55,3 +55,4 @@
 ##### - [[2026/Kalenderwoche 32|Kalenderwoche 32]]
 ##### - [[2026/Kalenderwoche 33|Kalenderwoche 33]]
 ##### - [[2026/Kalenderwoche 34|Kalenderwoche 34]]
+##### - [[2026/Kalenderwoche 35|Kalenderwoche 35]]
