@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich kurz geschaut ob ich mit meinen Tickets auch komplett fertig bin im Engagement Projekt. Danach habe ich an meinem Projekt weitergearbeitet. Gestern habe ich alle nötigen Infos im Browserfenster angezeigt. Heute habe ich damit begonnen denn Kalender ein stück weit zu Designen und die letzten fixen Infos dynamisch zu machen. Danach war das Daily und ich habe kurz mitgeteilt was ich gestern gemacht habe. Danach habe ich denn Kalender abgeschlossen und mit denn News weitergemacht. Ich habe zuerst grob das Konzept gezeichnet wie ich es anordnen möchte und danach begonnen es umzusetzen. Nachdem ich es umgesetzt habe, habe ich mit den ÖV Verbindungen weitergemacht. Sobald ich dies hatte stand somit das Grundgerüst. Ich habe dann alle Files schön strukturiert und statt alles in einem CSS File habe ich für jede Karte ein SCSS File neu. Somit ist es viel übersichtlicher. 
 
 ---
 ## Freitag
