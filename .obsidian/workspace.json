@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "2026/Kalenderwoche 36.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Kalenderwoche 36"
             }
           }
         ]
@@ -182,12 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0bd9b4c868d3502",
+  "active": "e698278b9fae4e80",
   "lastOpenFiles": [
+    "README.md",
     "2026/Kalenderwoche 36.md",
     "2026/Kalenderwoche 35.md",
     "2026/Kalenderwoche 34.md",
-    "README.md",
     "2026/Kalenderwoche 33.md",
     "2026/Kalenderwoche 28.md",
     "2026/Kalenderwoche 29.md",
