@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2026/Kalenderwoche 36.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e698278b9fae4e80",
+  "active": "a0bd9b4c868d3502",
   "lastOpenFiles": [
     "README.md",
     "2026/Kalenderwoche 36.md",
