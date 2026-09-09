@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Heute habe ich mit der Präsentation weitergemacht. Ich habe mich informiert wie man eine Masterfolie erstellt. Zu beginn war es sehr verwirrend und dann hat es funktioniert. Ich habe es dann so gut wie es ging probiert zu nutzen. Ich habe begonnen die Punkte die ich Präsentieren will aufzuschreiben und dann die Präsentation zu Designen und denn Content abzufüllen. Damit habe ich denn ganzen Tag verbracht und ich muss nun noch 2 Folien fertig anordnen. Danach sollte ich fertig sein. Am Nachmittag habe ich noch die Hausaufgaben für die Schule erledigt und für die ABU Prüfung gelernt.
 ---
 ## Donnerstag:
 
