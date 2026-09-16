@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Am Morgen habe ich denn Footer auf Desktop fertiggestellt und alle meine Änderungen Comittet. Im Media Ordner habe ich einen neuen Ordner für die Social Media Icons erstellt. Danach war das Daily wo es nichts neues gab und das Meeting wo es über WebMCP ging. Ich habe noch nie etwas von WebMCP gehört aber es war sehr spannend zuzuhören. Vorallem auch was man mit dem alles machen kann. Danach habe ich denn Rest vom tag am Responsive Design gearbeitet. Sobald dies dann fertig ist bin ich komplett fertig mit dem Footer.
 ---
 ## Donnerstag:
 
