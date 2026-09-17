@@ -12,7 +12,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Heute habe ich am Responsive Design weitergearbeitet. Ich war dabei denn ganzen Tag beschäftigt. Ich habe nun schlussendlich alle drei Layouts fertig. Es gib bei Tablet und Desktop noch ein Paar kleine Fixes die gemacht werden müssen und dann bin ich dort auch komplett fertig. Beim Mobile Layout sollte soweit alles passen.
 
 ---
 ## Freitag
