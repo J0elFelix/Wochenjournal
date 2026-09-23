@@ -10,7 +10,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Heute habe ich mit dem Photo-Gallery Module begonnen. Ich konnte das meiste vom alten Repo übernehmen. Ich hatte auch sehr schnell einen guten Stand und konnte mich daran machen für die Responsive Styles. Ich habe dann mit Riccardo noch kurz einen Bug angeschaut im footer. Die Icons haben nicht korrekt geladen und wir mussten das Feld mandatory machen. Danach hat es funktioniert. Am Nachmittag war noch das KI Meeting. Es war sehr interessant und auch informativ zu sehen wie die anderen mit KI arbeiten. Am Ende konnte ich bei dem Module denn Desktop und Mobile Style fertig machen. Morgen muss ich dann nur noch denn Tablet style machen und dann bin ich fertig.
 ---
 ## Donnerstag:
 
