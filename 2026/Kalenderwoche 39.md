@@ -14,11 +14,11 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich noch denn Tablet Style fertig gestellt und einen PR erstellt. Joel hat diesen dann Approved und ich musste keine Änderungen mehr machen. Danach konnte ich von 2 Live Seiten von m4music diese mit dem aktuellen stand von uns nachbauen. Die erste Seite ging problemlos jedoch hate es im Design noch viel das man anpassen muss. Als ich mit dem bauen fertig war habe ich einen PR erstellt und diesen Joel zugwiesen. Danach habe ich mit der zweiten Seite weitergemacht. Dort gab es dann drei Komponenten die wir noch nicht haben. Diese habe ich mal markiert sonst ging es aber auch super. Am Schluss habe ich einen PR erstellt und diesen Joel zugewiesen. Somit war ich fertig und habe noch mein Wochenjournal geschrieben. Somit bin ich nun bereit um nächste Woche in Zürich zu beginnen. 
 
 ---
 ## Freitag
 
-##### Schule
+##### Schule (Genf Interview)
 
 ---
