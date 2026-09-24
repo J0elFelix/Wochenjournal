@@ -8,7 +8,7 @@
 ##### - [[2025/Kalenderwoche 37]]
 ##### - [[2025/Kalenderwoche 38]]
 ##### - [[2025/Kalenderwoche 39]]
-##### - [[Kalenderwoche 40]]
+##### - [[2025/Kalenderwoche 40]]
 ##### - [[Kalenderwoche 41]]
 ##### - [[Kalenderwoche 42]]
 ##### - [[Kalenderwoche 43]]
@@ -60,3 +60,4 @@
 ##### - [[2026/Kalenderwoche 37|Kalenderwoche 37]]
 ##### - [[2026/Kalenderwoche 38|Kalenderwoche 38]]
 ##### - [[2026/Kalenderwoche 39|Kalenderwoche 39]]
+##### - [[2026/Kalenderwoche 40|Kalenderwoche 40]]
