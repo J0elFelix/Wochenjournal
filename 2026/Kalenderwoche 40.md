@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Heute habe ich am Formular weitergearbeitet. Ich habe am morgen gesucht wie man die Elemente übersetzten kann und nachdem ich dann Alice geschrieben habe, habe ich es dann auch gefunden. Danach konnte ich das Formular auf alle 3 Sprachen übersetzten und vom Inhalt her fertigstellen. Danach habe ich alle Platzhalter und Beschreibungen hinzugefügt und übersetzt. Danach habe ich denn Mail Service eingerichtet. Somit bekommt man eine Bestätigungsmail wenn man das Formular abschickt auf die angegebene Mail. Dies habe ich dann auch in 3 Sprachen erfasst. Als ich dann das ganze Testen wollte konnte ich es nicht absenden da ich nicht authentifiziert bin. Dies muss ich dann noch mit Alice anschauen wenn ich ihr mein aktueller Stand nachher zeige.  
 
 ---
 ## Mittwoch:
