@@ -9,7 +9,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Am Morgen musste ich wieder auf Zürich gehen. Im Zug habe ich an meinem Semesterbericht weitergeschrieben und als ich dann ankam mit Alice kurz geschaut wie es nun aussieht. Danach hat mir Dominik gezeigt wie ich das Formular pullen kann. Jedoch hat der Befehl nicht funktioniert da es noch nicht installiert ist. Es hat dann auch Probleme mit der Installation gegeben. Dies hat sehr viel Zeit gekostet aber schlussendlich hat es dann funktioniert. Dominik konnte mir dann weiterhelfen und ich habe das Formular nun bei mir. Ich muss nun noch die Email anpassen damit wenn man das Formular ausfüllt auch an denn Teams Kanal gesendet wird. Sobald dies getan war musste ich noch denn Captcha Token anfordern und damit konnte ich dann auch das Formular absenden und es hat ohne Probleme funktioniert. Danach habe ich im Formigros Repo das Formular gepullt und die Variablen angepasst danach habe ich die änderungen ins Repo gepushed.
 ---
 ## Donnerstag:
 
