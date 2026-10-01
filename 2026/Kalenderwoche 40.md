@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Heute habe ich noch ein paar fixes gemacht für das DTC Formular. Danach habe ich mit Tobi telefoniert und er ist mit mir ein paar Tickets durchgegangen die ich erledigen kann. Danach habe ich mit Dominik einen Call gemacht um ein Ticket gemeinsam lösen zu können so wie es Tobi gesagt hat. Es hat sich herausgestellt das man das auch gut alleine hätte machen können da man nur 1 Bild austauschen musste und dann war das Ticket auch schon erfüllt. Danach habe ich mich daran gemacht ein anderes Ticket zu beginnen. Ich konnte damit jedoch nicht beginnen da ich mich nicht anmelden konnte und deshalb konnte ich nur im Ticket einen Kommentar erfassen um zu fragen wie man sich dort anmelden kann. Danach musste ich noch beim DTC Formular denn Modal bei allen Sprachen entfernen und beim Text einen Hyperlink hinzufügen da wir nun denn Link zum PDF haben. Dies war auch schnell getan und ich konnte es dann auf INT Pushen und gerade auch testen ob es funktioniert. Dies hat ohne Probleme direkt funktioniert und ich habe dann einen Merge Request erstellt und Tobi als Reviewer hinzugefügt. Somit bin ich für denn Moment mit dem DTC Formular fertig bis wir ein Update vom Kunden bekommen.
 
 ---
 ## Freitag
