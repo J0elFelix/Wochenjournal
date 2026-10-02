@@ -18,6 +18,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Heute habe ich im Jira noch meine Tickets verschoben damit diese am richtigen Ort sind. Das Volunteer Review Ticket konnte ich weitergeben, da hat alle gut ausgesehen. Die Migration habe ich bei Cedric ins Review gegeben und dies sollte auch kein Problem sein, da ich dies mit ihm erledigt habe und es soweit gut aussieht. Beim DTC Formular habe ich noch die Email auf INT gewechselt damit man es auch auf dem Teams Kanal sieht wenn jemand auf INT ein Formular gesendet hat. Soweit wäre es nun fertig und jetzt müssen wir warten. Beim Login für denn Funktionsuser bin ich auch noch nicht weiter da ich es nicht testen kann solange ich mich nicht mit dem User anmelden kann. Danach habe ich mit dem Ticket begonnen zur Auflistung aller MDX Tokens die wir brauchen. Das E-Learning habe ich dann auch noch abgeschlossen. 
 
 ---
