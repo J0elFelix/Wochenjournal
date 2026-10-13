@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich mir das Onboarding Ticket genauer durchgelesen und danach kurz nachdem ich begonnen habe, hatten wir das Sprint Planning. Dort haben wir die Tickets aus dem aktuellen Sprint angeschaut und die Tickets die im nächsten Sprint kommen. Die Tickets die nicht fertiggestellt wurden sind nun im nächsten Sprint drin. Danach habe ich mit dem Onboarding Ticket weitergemacht und im Zug noch die Behind The Scenes Präsentation fertiggestellt. 
 ---
 ## Mittwoch:
 
