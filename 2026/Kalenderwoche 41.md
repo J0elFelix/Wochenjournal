@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Im Zug habe ich noch die Präsentation fertiggestellt und das Zugticket hochgeladen. Im Office habe ich dann begonnen meinen Ordner zu bereinigen, da ich das Taco Repo mehrmals drauf hatte. Somit kann ich dann von einem Sauberen Stand weitermachen mit dem Onboarding Ticket. Ich hatte dann noch ein kurzes Meeting mit Tobi und Riccardo. Bei denn M4Music Formularen sind noch kleine Fixes zu machen. Da wir nicht dir korrekten Formulare hatten, müssen wir nun denn Rest noch hinzufügen und die Texte ändern. Dafür wurde auch gleich ein Ticket erstellt und dies kann ich dann bearbeiten. Danach war gleich das biweekly. Ich musste dort Moderieren und da ich das noch nie gemacht habe war ich ein bisschen Nervös aber es hat dann gut funktioniert. Danach habe ich noch mein Behind the Scenes präsentiert. Ich habe von meinen Ferien in London erzählt und danach wurde ein neuen Moderator für in zwei Wochen gewählt. Somit ist in zwei Wochen dann Beda dran mit dem Moderieren. Danach hatten wir das Daily und am Nachmittag war dann der Internet Workshop. Da habe ich mir einige Notizen gemacht und es war auch sehr Spannend und Informativ. Danach habe ich mit Jannick kurz seine Kommentare in meinem MR durchgeschaut und bin dann auf den Zug gegangen. Somit habe ich dann  begonnen die Kommentare abzuarbeiten.
 
 ---
 ## Donnerstag:
