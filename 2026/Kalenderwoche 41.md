@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich die Generic Translations noch fertig gemacht. Janick hat dabei noch einige Kommentare hinterlassen und die habe ich nacheinander abgearbeitet. Beim einen Kommentar war er sich nicht sicher ob es übersetzt wird. Ich habe da genauer nachgeschaut und die Funktion kommt von Form.io selbst. Somit konnte ich alle Kommentare schliessen und am Schluss habe ich es noch auf Qual gepushed. Somit bin ich für nun damit fertig. Danach habe ich mit denn M4Music Formular fixes begonnen. Ich habe mit dem DTC Formular begonnen und alles der Reihe nach durchgearbeitet. Diese Dinge die noch gar nicht behoben werden können wie zum Beispiel Daten, da wir diese Infos nicht haben habe ich mir Aufgeschrieben. Anschliessend habe ich Tobi darüber Informiert.
 
 ---
 ## Freitag
