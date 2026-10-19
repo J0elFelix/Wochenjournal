@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20864f8a2e8c1c83",
+        "id": "3a86c1695f2ef847",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2954990ef313f9",
+            "id": "cdb971acc2ec4ac9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "2026/Kalenderwoche 42.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Kalenderwoche 42"
             }
           }
         ]
@@ -182,9 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b2954990ef313f9",
+  "active": "cdb971acc2ec4ac9",
   "lastOpenFiles": [
     "2026/Kalenderwoche 41.md",
+    "2026/Kalenderwoche 42.md",
+    "README.md",
     "2026/Kalenderwoche 11.md",
     "2026/Kalenderwoche 12.md",
     "2026/Kalenderwoche 13.md",
@@ -192,7 +194,6 @@
     "2026/Kalenderwoche 10.md",
     "2026/Kalenderwoche 4.md",
     "2026/Kalenderwoche 40.md",
-    "README.md",
     "2026/Kalenderwoche 39.md",
     "assets/Pasted image 20260922150616.png",
     "2026/Kalenderwoche 38.md",
@@ -210,7 +211,6 @@
     "2025/Kalenderwoche 45.md",
     "2025/Kalenderwoche 46.md",
     "2025/Kalenderwoche 47.md",
-    "2025/Kalenderwoche 48.md",
     "assets/Pasted image 20260409164501.png",
     "assets/Pasted image 20260408133627.png",
     "assets/Pasted image 20260407163940.png",
