@@ -18,6 +18,6 @@
 ---
 ## Freitag
 
-##### Text
+##### Am Morgen habe ich das Claude Code Setup noch fertiggestellt im Zug. Dies hat einwandfrei funktioniert. Danach habe ich Tobi gefragt ob ich gerade alle Formulare fixen kann. Danach habe ich diese gefixed und Tobi geschrieben was noch gemacht werden muss. Somit bin ich soweit fertig mit diesem Ticket. Danach hatten wird das Daily und dann auch schon Mittag. Nach dem Mittag habe ich mit der Hilfe von Beda Claude Code noch als VS Code extension installiert in WSL. Dabei hat er mir auch gleich gezeigt wie man die Subagents benutzt und die MCP Server. Dies hat dann auch einwandfrei funktioniert. Danach hat Roland im M4Music Forms Ticket noch einige Kommentare hinterlassen. Ich habe dies dann aktualisiert und einige Fragen dazu noch gestellt. Ich warte noch auf Antwort auf 2 Fragen und sobald ich dies habe kann ich stand Jetzt das ticket abschliessen. 
 
 ---

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c29b3e97cecc869",
+        "id": "20864f8a2e8c1c83",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9518fef387cc94",
+            "id": "8b2954990ef313f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2026/Kalenderwoche 41.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Kalenderwoche 41"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -182,15 +182,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a9518fef387cc94",
+  "active": "8b2954990ef313f9",
   "lastOpenFiles": [
+    "2026/Kalenderwoche 41.md",
     "2026/Kalenderwoche 11.md",
     "2026/Kalenderwoche 12.md",
     "2026/Kalenderwoche 13.md",
     "2026/Kalenderwoche 14.md",
     "2026/Kalenderwoche 10.md",
     "2026/Kalenderwoche 4.md",
-    "2026/Kalenderwoche 41.md",
     "2026/Kalenderwoche 40.md",
     "README.md",
     "2026/Kalenderwoche 39.md",
