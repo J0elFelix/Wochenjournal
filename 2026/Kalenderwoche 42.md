@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Am Morgen habe ich noch denn Semesterbericht aktualisiert und auf Rechtschreibung geprüft, bei dem was neu dazugekommen ist. Danach habe ich mir oclif angeschaut. Dies ist ein Open Source Projekt mit dem man CLI Tools erstellen kann. Dies ist in Taco schon installiert und somit musste ich nur prüfen ob es auch funktioniert. Danach konnte ich auch schon beginnen es einzubauen. Am Nachmittag habe ich dabei weitergemacht und dann noch ein bisschen etwas für die Schule gemacht.
 
 ---
 ## Donnerstag:
