@@ -13,11 +13,11 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Heute habe ich am Taco Logging hauptsächlich weitergearbeitet. Dort bin ich gut vorangekommen und nun ist es mehr oder weniger das gleiche. Am Nachmittag habe ich noch ein bisschen am Schulprojekt gearbeitet das wir heute abgeben müssen. 
 
 ---
 ## Freitag
 
-##### Text
+##### Schule
 
 ---
