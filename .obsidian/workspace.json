@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16a61ce50dd00404",
+        "id": "3e8764a6ea809e16",
         "type": "tabs",
         "children": [
           {
-            "id": "af0ff63467e66afa",
+            "id": "04a47d461987c7d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026/Kalenderwoche 43.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kalenderwoche 43"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -182,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098a053bbd5821a5",
+  "active": "04a47d461987c7d4",
   "lastOpenFiles": [
-    "2026/Kalenderwoche 43.md",
     "README.md",
+    "assets/Aktueller Stand Öffnungszeiten Komponente.png",
+    "2026/Kalenderwoche 44.md",
+    "2026/Kalenderwoche 43.md",
     "2026/Kalenderwoche 42.md",
     "2026/Kalenderwoche 41.md",
     "2026/Kalenderwoche 11.md",
@@ -209,8 +207,6 @@
     "2025/Kalenderwoche 42.md",
     "2025/Kalenderwoche 43.md",
     "2025/Kalenderwoche 44.md",
-    "2025/Kalenderwoche 45.md",
-    "2025/Kalenderwoche 46.md",
     "assets/Pasted image 20260409164501.png",
     "assets/Pasted image 20260408133627.png",
     "assets/Pasted image 20260407163940.png",
@@ -219,7 +215,6 @@
     "assets/Pasted image 20260327150504.png",
     "assets/Pasted image 20260327150445.png",
     "assets/Pasted image 20260324141833.png",
-    "assets/Pasted image 20260317151004.png",
     "2028",
     "2027",
     "2026",
