@@ -11,10 +11,14 @@
             "id": "04a47d461987c7d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026/Kalenderwoche 44.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Kalenderwoche 44"
             }
           }
         ]
