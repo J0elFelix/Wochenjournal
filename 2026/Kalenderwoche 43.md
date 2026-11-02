@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen musste ich bei meinem MR alles rebasen da Alice gestern alles gepullt hat und auf einem Seperaten Branch gemerged hat. Danach habe ich sie gefragt ob sie meinen MR reviewen kann da Janick heute nicht da ist. Danach habe ich am Ticket weitergearbeitet das noch offen ist. Sobald ich alles hatte, habe ich einen MR erstellt. Ich habe dann Tobi gefragt ob noch mehr Änderungen kommen werden zu diesem Formular. Dies war auch der Fall und später werde ich diese noch bekommen. Ich habe dann alle Anpassungen erhalten und diese begonnen zu implementieren. Dies habe ich dann im Zug weitergemacht so weit ich gekommen bin und habe alles Gepushed. Im Ticket habe ich dann noch reingeschrieben was noch gemacht werden muss und Tobi habe ich auch noch geschrieben das ich einen MR offen habe um ein weiteres Ticket abzuschliessen.
 
 ---
 ## Freitag
