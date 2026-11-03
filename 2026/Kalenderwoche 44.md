@@ -4,7 +4,7 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich mit Dino einen Call gemacht um denn PR anzuschauen. Er hat diesen dann auch Approved und ich habe ihm kurz gezeigt an welcher Komponente ich gerade arbeite. Danach konnte ich daran weiterarbeiten. Danach habe ich an der Komponente weitergearbeitet und hatte das 1:1 mit Joel. Dort habe ich ihm gezeigt was für arbeiten ich in Zürich erledigt habe und sonst noch Themen besprochen. Danach habe ich an der Komponente weitergearbeitet und ich kann nun alle Dinge anzeigen die ich anzeigen muss. Danach habe ich es noch lesbarer dargestellt und die Klassen hinzugefügt die ich dann für das Styling brauche. Dann habe ich mit dem styling begonnen. Jedoch sind die breiten noch nicht final, deshalb geht der Border und alles nicht ganz nach draussen und der Style sieht noch nicht korrekt aus. Ich muss auch noch alle PX werte auf REM ändern.
 ---
 ## Mittwoch:
 
