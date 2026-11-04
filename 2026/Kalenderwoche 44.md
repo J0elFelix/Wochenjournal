@@ -8,7 +8,7 @@
 ---
 ## Mittwoch:
 
-##### Text
+##### Am Morgen habe ich das Design vom Titel noch angepasst und die gesamte Grösse da es gegenüber dem anderen viel zu gross ist. Danach hat mir Roland noch geschrieben dass die M4Music Formulare heute um 11:00 Uhr Live gehen und beim DTC Formular noch die Email Nachricht angepasst werden muss. Da ich nicht mehr im CONSOL-Team arbeite bin ich eigentlich nicht mehr dafür zuständig aber da es sonst niemand gerade erledigen kann und die Zeit knapp ist habe ich das übernommen. Ich habe die Texte geändert und festgestellt das die Änderungen die ich zuletzt getätigt waren noch gar nicht gepushed waren. Dies habe ich auch gleich erledigt von Qual bis auf Pre-Prod. Tobi hat dann denn Release auf Prod getätigt. Danach habe ich einen MR erstellt damit auch alles korrekt drin ist. Dies hat einwandfrei Funktioniert und Tobi hat diesen dann Approved und Gemerged danach habe ich an der Komponente weitergearbeitet. Mit dem Design bin ich fertig geworden und ich musste dann noch alle PX werte zu REM Werte ändern und dann sah es aus meiner Sicht gut aus. Dann habe ich einen PR erstellt und es in meinem Semesterbericht noch festgehalten.
 
 ---
 ## Donnerstag:
