@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich noch denn Style ein wenig angepasst da es noch nicht dem der Live Seite entsprochen hat. Nun sollte es mehr oder weniger passen. Danach habe ich Joel gefragt ob sonst noch was zu machen ist, da ich nun mit allem fertig bin. Ich hatte dann das Meeting mit Dino und Joel über das weitere vorgehen in Classics. Dort haben wir festgelegt was noch zu Tun ist und was man gerade umsetzten kann. Ich habe dann das Carousel bekommen ich sollte denn Footer mal durchschauen ob es dort noch Probleme hat. Ich habe dann mit dem Carousel begonnen. Ich konnte das Carousel von Engagement kopieren und sehr vieles löschen, da es dies in Classics nicht braucht. Am Nachmittag hatten wir dann denn Go-Life Apero. Dani und Lea sind von Bern angereist und wir haben dann zusammen Apero gemacht um das Engagement Projekt abzuschliessen. Gegen Ende vom Jahr gibt es dann noch eine Retro.
 
 ---
 ## Freitag
