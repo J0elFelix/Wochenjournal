@@ -14,7 +14,7 @@
 ##### - [[2025/Kalenderwoche 43]]
 ##### - [[2025/Kalenderwoche 44]]
 ##### - [[2025/Kalenderwoche 45]]
-##### - [[Kalenderwoche 46]]
+##### - [[2025/Kalenderwoche 46]]
 ##### - [[Kalenderwoche 47]]
 ##### - [[Kalenderwoche 48]]
 ##### - [[Kalenderwoche 49]]
@@ -66,3 +66,4 @@
 ##### - [[2026/Kalenderwoche 43|Kalenderwoche 43]]
 ##### - [[2026/Kalenderwoche 44|Kalenderwoche 44]]
 ##### - [[2026/Kalenderwoche 45|Kalenderwoche 45]]
+##### - [[2026/Kalenderwoche 46|Kalenderwoche 46]]
