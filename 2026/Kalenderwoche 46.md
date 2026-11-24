@@ -13,7 +13,7 @@
 ---
 ## Donnerstag:
 
-##### Text
+##### Am Morgen habe ich begonnen die Elements zu erstellen. Dafür musste ich im Backoffice in denn Settings zuerst einen neuen Ordner anlegen und alle verschiedenen Daten konfigurieren und dann unter Library einen Ordner machen und diese dort hinzufügen. Danach habe ich neue Seiten erstellt und dies so konfiguriert wie auf der momentanen Lösung. Dies hat dann auch mit der Zeit einwandfrei funktioniert und am Nachmittag hat Dino noch noch seine Changes in denn Main gemerged. Ich habe dann gesehen das dies genau diese Dinge unter anderem sind die ich gerade am erstellen bin. Ich habe mir dies dann noch genauer angeschaut und es dann mit Joel besprochen. Daraufhin haben wir kurz einen Call zu dritt gemacht um uns besser abzusprechen wie wir weiter vorgehen. 
 
 ---
 ## Freitag
