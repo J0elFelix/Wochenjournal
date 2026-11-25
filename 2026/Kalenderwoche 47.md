@@ -4,11 +4,11 @@
 ---
 ## Dienstag:
 
-##### Text
+##### Am Morgen habe ich begonnen die Suche zu Implementieren. Ich habe mir zuerst die Suche von Logistics angeschaut und dann mit Coco kommuniziert wegen der Suche. 
 ---
 ## Mittwoch:
 
-##### Text
+##### Heute habe ich die Suche fertiggestellt und im CMS noch einen Toggle implementiert damit die suche auch ausgeblendet werden kann. Ich habe dann noch festgestellt das die Suche in der Such Form nicht die ganze Breite hat und dies muss ich morgen noch anpassen. Zudem habe ich denn Language-Switcher und die 2 Stufige Navigation noch implementiert. Danach habe ich in denn Chat geschrieben dass soweit alles vorhanden ist und wir nun blockiert sind. Somit können wir erst fortfahren wenn wir ein Mockup oder ähnliches haben. 
 
 ---
 ## Donnerstag:
